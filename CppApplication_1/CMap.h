@@ -24,7 +24,9 @@ class CMap
     }
     
     //destructor
-    ~CMap();
+    ~CMap(){
+       free(elements); 
+    }
     
     void insert(K key, DT val){
         if(keyExists(key) == true){
@@ -47,8 +49,12 @@ class CMap
     }
     
     void resize(){
-        elements = (myElement*)realloc(elements, sizeof(myElement)*size*10);
-        size+=10;
+        //int max = 13010121;
+       // if(sizeof(elements) < max && (sizeof(elements)*2)<max )
+        //else
+          //  std::cout<< " You have reached the maximum amount of memory" << std::endl;
+        elements = (myElement*)realloc(elements, sizeof(myElement)*size*2);
+        size*=2;
         for (int i = position + 2; i < size; i++){
             elements[i].key = NULL;
             elements[i].data = NULL;
@@ -109,19 +115,26 @@ class CMap
     }
     
     void erase(K key){
-        for(int i = 0; i < size; i++){
+        for(int i = 0; i < position; i++){
             if(elements[i].key == key){
                std::cout << "Value " << elements[i].data << " with key " << elements[i].key << " is deleted " << std::endl;
-               myElement* newnext;
-               elements[i].key = NULL;
-               elements[i].data = NULL; 
+               elements[i].key = elements[position-1].key;
+               elements[i].data = elements[position-1].data;
+               elements[position].key = 0;
+               elements[position].data = 0;
+               position--;
+               
+               //delete temp;
+               //elements[position] = elements[i];
+               //elements[i].key = NULL;
+               //elements[i].data = NULL; 
                //free(elements[position]);
             }
         }
     }
     
   private:
-    myElement  *elements;
+    myElement* elements;
     int size = 10;
     int position = 0;
 };
