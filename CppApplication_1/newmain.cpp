@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <libintl.h>
 #include "CMap.h"
 
 class test{
@@ -8,23 +9,28 @@ private:
 public:
     test(){
         i = 10;
-    }
-    
+    }    
 };
 
 int main(int argc, char** argv) {
      
-    CMap<int, char*>* foo = new CMap<int, char*>();
-    foo->insert (1, "OK");
-    foo->insert (2, "DONE");
-    foo->insert (3, "VASILIS");
-    foo->insert (4, "ANDREAS");
-    foo->insert (5, "CHRYSANTHOS");
+//    CMap<int, char*>* foo = new CMap<int, char*>();
+//    foo->insert (1, "OK");
+//    foo->insert (2, "DONE");
+//    foo->insert (3, "VASILIS");
+//    foo->insert (4, "ANDREAS");
+//    foo->insert (5, "CHRYSANTHOS");
+//    
+//    foo->print();
+//    foo->at(4);
+//    foo->erase(4);
+//    foo->print();
     
-    foo->print();
-    foo->at(4);
-    foo->erase(4);
-    foo->print();
+    CMap<int, test*>* obj = new CMap<int, test*>();
+  
+    obj->print();
+    
+    
     //foo->pop();
     
 //    std::cout<<std::endl;

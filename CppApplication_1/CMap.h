@@ -97,13 +97,6 @@ class CMap
             return false;
     }
     
-    K front() {
-        if (!isEmpty())
-            return elements[position - 1];
-        else
-            return -1;
-    }
-    
     K capacity(){
         return position;
     }
@@ -123,12 +116,6 @@ class CMap
                elements[position].key = 0;
                elements[position].data = 0;
                position--;
-               
-               //delete temp;
-               //elements[position] = elements[i];
-               //elements[i].key = NULL;
-               //elements[i].data = NULL; 
-               //free(elements[position]);
             }
         }
     }
