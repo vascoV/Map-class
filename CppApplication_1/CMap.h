@@ -8,17 +8,27 @@ struct Element{
 template <typename K, typename DT>
 class CMap 
 {
+    
+  typedef Element<K, DT> myElement;
+    
+  private:
+    myElement* elements;
+    int size = 10;
+    int position = 0;
+    
   public:
-    typedef Element<K, DT> myElement;
 
     CMap(){
         //An initial map with a size of 10 potential elements.
         elements = (myElement*)malloc(sizeof(myElement)*size);
-        for(int i =0; i<size;i++)
-        {
-            elements[i].data = NULL;
-            elements[i].key = NULL;
-        }
+        //elements = new myElement[size];
+        //for(int i =0; i < size; i++)
+        //{
+          //  elements[i].key = NULL;
+          //  elements[i].data = NULL;
+            //elements[i].key = K();
+            //elements[i].data = DT();
+        //}
     }
     
     //destructor
@@ -27,17 +37,17 @@ class CMap
     }
     
     void insert(K key, DT val){
-        int index = find(key);
+        int pos = find(key);
         if(keyExists(key) == true){
-            std::cout << "The key "<< elements[index].key << " already exists in the container!" << std::endl;
+            std::cout << "The key "<< elements[pos].key << " already exists in the container!" << std::endl;
         }else{
             elements[position].key = key;
             elements[position].data = val;
             position++;
-            
          }
+        
         if(position == size - 2){
-            resize();
+            extendSize();
         }
     }
     void print()
@@ -48,21 +58,23 @@ class CMap
         }
     }
     
-    void resize(){
-        //int max = 13010121;
+    void extendSize(){
+        //int max = 4294967295;
        // if(sizeof(elements) < max && (sizeof(elements)*2)<max )
         //else
           //  std::cout<< " You have reached the maximum amount of memory" << std::endl;
         elements = (myElement*)realloc(elements, sizeof(myElement)*size*2);
         size*=2;
         for (int i = position + 2; i < size; i++){
-            elements[i].key = NULL;
-            elements[i].data = NULL;
+            //elements[i].key = NULL;
+            //elements[i].data = NULL;
+            elements[i].key = K();
+            elements[i].data = DT();
         }
            
     }
     
-    bool keyExists(K key){
+    K keyExists(K key){
         for(int i = 0; i < size; i++){
             if(elements[i].key == key){
                 
@@ -72,7 +84,7 @@ class CMap
         return false;
     }
     
-    int find(K key){
+    K find(K key){
         for(int i = 0; i < size; i++){
             if(elements[i].key == key){
                 return i;
@@ -97,14 +109,8 @@ class CMap
             return false;
     }
     
-    K capacity(){
+    int capacity(){
         return position;
-    }
-    
-    void pop(){
-        if(!isEmpty()){
-            position--;
-        }
     }
     
     void erase(K key){
@@ -113,17 +119,14 @@ class CMap
                std::cout << "Value " << elements[i].data << " with key " << elements[i].key << " is deleted " << std::endl;
                elements[i].key = elements[position-1].key;
                elements[i].data = elements[position-1].data;
-               elements[position].key = 0;
-               elements[position].data = 0;
+               elements[position].key = K();
+               elements[position].data = DT();
                position--;
             }
         }
     }
     
-  private:
-    myElement* elements;
-    int size = 10;
-    int position = 0;
+  
 };
 
   

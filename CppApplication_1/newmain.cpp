@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <libintl.h>
 #include "CMap.h"
 
 class test{
@@ -14,18 +13,19 @@ public:
 
 int main(int argc, char** argv) {
      
-    CMap<int, char*>* foo = new CMap<int, char*>();
+    //CMap<int, char*>* foo = new CMap<int, char*>();
+    CMap<int, std::string>* foo = new CMap<int, std::string>();
     foo->insert (1, "OK");
     foo->insert (2, "DONE");
     foo->insert (3, "VASILIS");
     foo->insert (4, "ANDREAS");
-    foo->insert (5, "CHRYSANTHOS");
-    
+    foo->insert(5, "Me lene Vasco");
+
     foo->print();
-    foo->at(4);
-    foo->erase(2);
-    foo->insert(1, "Boooo");
-    foo->print();
+    //foo->at(4);
+    //foo->erase(2);
+   // foo->insert(1, "Boooo");
+    //foo->print();
     
 //    CMap<int, test*>* obj = new CMap<int, test*>();
 //  
