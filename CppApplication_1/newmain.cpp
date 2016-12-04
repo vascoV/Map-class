@@ -14,21 +14,22 @@ public:
 
 int main(int argc, char** argv) {
      
-//    CMap<int, char*>* foo = new CMap<int, char*>();
-//    foo->insert (1, "OK");
-//    foo->insert (2, "DONE");
-//    foo->insert (3, "VASILIS");
-//    foo->insert (4, "ANDREAS");
-//    foo->insert (5, "CHRYSANTHOS");
-//    
-//    foo->print();
-//    foo->at(4);
-//    foo->erase(4);
-//    foo->print();
+    CMap<int, char*>* foo = new CMap<int, char*>();
+    foo->insert (1, "OK");
+    foo->insert (2, "DONE");
+    foo->insert (3, "VASILIS");
+    foo->insert (4, "ANDREAS");
+    foo->insert (5, "CHRYSANTHOS");
     
-    CMap<int, test*>* obj = new CMap<int, test*>();
-  
-    obj->print();
+    foo->print();
+    foo->at(4);
+    foo->erase(2);
+    foo->insert(1, "Boooo");
+    foo->print();
+    
+//    CMap<int, test*>* obj = new CMap<int, test*>();
+//  
+//    obj->print();
     
     
     //foo->pop();
@@ -47,6 +48,7 @@ int main(int argc, char** argv) {
 //    num->print();
 //    num->at(3);
 //    num->erase(3);
+//    num->insert(4, 89);
 //    num->print();
     
 //    std::cout<<std::endl;
@@ -65,6 +67,8 @@ int main(int argc, char** argv) {
 //    std::cout << std::endl;
 //    //boolean->pop();
 //    //boolean->print();
+    
+    
     return 0;
     
 }

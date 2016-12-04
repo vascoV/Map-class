@@ -13,8 +13,6 @@ class CMap
 
     CMap(){
         //An initial map with a size of 10 potential elements.
-        //position = 0;
-        //size = 10;
         elements = (myElement*)malloc(sizeof(myElement)*size);
         for(int i =0; i<size;i++)
         {
@@ -29,12 +27,14 @@ class CMap
     }
     
     void insert(K key, DT val){
+        int index = find(key);
         if(keyExists(key) == true){
-            std::cout << " This key already exists " << std::endl;
+            std::cout << "The key "<< elements[index].key << " already exists in the container!" << std::endl;
         }else{
             elements[position].key = key;
             elements[position].data = val;
             position++;
+            
          }
         if(position == size - 2){
             resize();
