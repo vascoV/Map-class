@@ -23,8 +23,8 @@ int main(int argc, char** argv) {
 
     foo->print();
     //foo->at(4);
-    //foo->erase(2);
-   // foo->insert(1, "Boooo");
+    foo->erase(2);
+    //foo->insert(1, "Boooo");
     //foo->print();
     
 //    CMap<int, test*>* obj = new CMap<int, test*>();
