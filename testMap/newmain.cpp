@@ -2,14 +2,21 @@
 #include <string>
 #include "CMap.h"
 
-class MyClass
+class Fruits
 {
-public:
-	MyClass() {};
-	~MyClass() {};
-
 private:
-	std::string x = "abc";
+    std::string name;
+public:
+    Fruits(std::string fruit) {
+    this->name = fruit;
+    }
+//    std::string setName(std::string frit){
+//        name = f;
+//        
+//    }
+    std::string getFruit(){
+        return name;        
+    }
 };
 
 
@@ -18,20 +25,25 @@ int main() {
 
 	
 	std::cout << "----------" << "Object Test" << "----------" << std::endl;
-	CMap<int, MyClass*>* objMap = new CMap<int, MyClass*>();
+	CMap<int, Fruits*>* objMap = new CMap<int, Fruits*>();
 
-	MyClass* c1 = new MyClass();
-	MyClass* c2 = new MyClass();
-	MyClass* c3 = new MyClass();
-	MyClass* c4 = new MyClass();
-	MyClass* c5 = new MyClass();
-
+	Fruits* c1 = new Fruits("Apple");
+	Fruits* c2 = new Fruits("Orange");
+	Fruits* c3 = new Fruits("Pineapple");
+	Fruits* c4 = new Fruits("Grapes");
+	Fruits* c5 = new Fruits("Banana");
+        c1->getFruit();
+        c2->getFruit();
+        c3->getFruit();
+        c4->getFruit();
+        c5->getFruit();
+        
 	objMap->insert(1, c1);
 	objMap->insert(2, c2);
 	objMap->insert(3, c3);
 	objMap->insert(4, c4);
 	objMap->insert(5, c5);
-	
+      
 	objMap->print();
 
 
@@ -97,7 +109,5 @@ int main() {
 	std::cout << std::endl;
 	std::cout << "My Map contains " << chrMap->size() << " characters." << std::endl << std::endl;
 
-
-	system("pause");
 	return 0;
 }

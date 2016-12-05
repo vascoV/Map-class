@@ -35,33 +35,28 @@ public:
 		}
 		else {
 			elements[positionIndex].Key = key; //add the key into the map container
-			elements[positionIndex].Data = val; //add the value into the map conrainer
+			elements[positionIndex].Data = val; //add the value into the map container
 			positionIndex++;
 		}
 
 		//check if the container size exceed 
-		if (positionIndex == arraySize -2) {
-			extendSize(); //reallocate for extra memmory 
+		if (positionIndex == arraySize) {
+			extendSize(); //reallocate for extra memory 
 		}
 	}
 
-	//reallocate memory and extend the current map containner
+	//this function create another array and reallocates extra memory  
 	void extendSize() {
-		int max = 4294967295;
-		if (sizeof(elements) < max /*&& (sizeof(elements) * 2)<max*/) {
 			elements = (myElement*)realloc(elements, sizeof(myElement)*arraySize * 2);
 			arraySize *= 2;
 			for (int i = positionIndex + 2; i < arraySize; i++) {
-				elements[i].Key = K();
-				elements[i].Data = DT();
-			}
+			elements[i].Key = K();
+			elements[i].Data = DT();
+                    }
 		}
-		else {
-			std::cout << " You have reached the maximum amount of memory" << std::endl;
-		}
-	}
+	
 
-	//check if key already exists
+	//check if key already exists into the container
 	bool keyExists(K key) {
 		for (int i = 0; i < arraySize; i++) {
 			if (elements[i].Key == key) {
@@ -71,7 +66,7 @@ public:
 		return false;
 	}
 
-	//return the current key
+	//this function return the current key
 	K find(K key) {
 		for (int i = 0; i < arraySize; i++) {
 			if (elements[i].Key == key) {
@@ -85,10 +80,10 @@ public:
 	void at(K key) {
 		int pos = find(key);
 		if (pos >= 0) {
-			std::cout << "The Key " << elements[pos].Key << " was found with value " << elements[pos].Data << std::endl;
+                    std::cout << "The Key " << elements[pos].Key << " was found with value " << elements[pos].Data << std::endl;
 		}
 		else {
-			std::cout << "The key that you trying to acces doesn't exist!!" << std::endl;
+                    std::cout << "The key that you trying to acces doesn't exist!!" << std::endl;
 		}
 	}
 
