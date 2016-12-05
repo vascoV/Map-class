@@ -1,134 +1,129 @@
 template <typename K, typename DT>
-struct Element{
-    
-   K key;
-   DT data;
+struct Elements {
+
+	K Key;
+	DT Data;
 };
 
 template <typename K, typename DT>
-class CMap 
+class CMap
 {
-    
-  typedef Element<K, DT> myElement;
-    
-  private:
-    myElement* elements;
-    int size = 10;
-    int position = 0;
-    
-  public:
+	typedef Elements<K, DT> myElement;
 
-    CMap(){
-        //An initial map with a size of 10 potential elements.
-        elements = (myElement*)malloc(sizeof(myElement)*size);
-        //elements = new myElement[size];
-        //for(int i =0; i < size; i++)
-        //{
-          //  elements[i].key = NULL;
-          //  elements[i].data = NULL;
-            //elements[i].key = K();
-            //elements[i].data = DT();
-        //}
-    }
-    
-    //destructor
-    ~CMap(){
-       free(elements); 
-    }
-    
-    void insert(K key, DT val){
-        int pos = find(key);
-        if(keyExists(key) == true){
-            std::cout << "The key "<< elements[pos].key << " already exists in the container!" << std::endl;
-        }else{
-            elements[position].key = key;
-            elements[position].data = val;
-            position++;
-         }
-        
-        if(position == size - 2){
-            extendSize();
-        }
-    }
-    void print()
-    {
-        for(int i =0; i<position;i++)
-        {
-           std::cout << elements[i].key <<" "<< elements[i].data <<std::endl;
-        }
-    }
-    
-    void extendSize(){
-        //int max = 4294967295;
-       // if(sizeof(elements) < max && (sizeof(elements)*2)<max )
-        //else
-          //  std::cout<< " You have reached the maximum amount of memory" << std::endl;
-        elements = (myElement*)realloc(elements, sizeof(myElement)*size*2);
-        size*=2;
-        for (int i = position + 2; i < size; i++){
-            //elements[i].key = NULL;
-            //elements[i].data = NULL;
-            elements[i].key = K();
-            elements[i].data = DT();
-        }
-           
-    }
-    
-    K keyExists(K key){
-        for(int i = 0; i < size; i++){
-            if(elements[i].key == key){
-                
-                return true;
-            }
-        } 
-        return false;
-    }
-    
-    K find(K key){
-        for(int i = 0; i < size; i++){
-            if(elements[i].key == key){
-                return i;
-            }
-        }
-        return -1;
-    }
-    
-    void at(K key){
-        int pos = find(key);
-        if(pos >= 0){
-            std::cout << "Key " << elements[pos].key << " Found for value " << elements[pos].data << std::endl;
-        }else{
-            std::cout << "NO existing key" << std::endl;
-        }
-    }
-    
-    bool isEmpty() {
-        if (position == 0)
-            return true;
-	else
-            return false;
-    }
-    
-    int capacity(){
-        return position;
-    }
-    
-    void erase(K key){
-        for(int i = 0; i < position; i++){
-            if(elements[i].key == key){
-               std::cout << "Value " << elements[i].data << " with key " << elements[i].key << " is deleted " << std::endl;
-               elements[i].key = elements[position-1].key;
-               elements[i].data = elements[position-1].data;
-               elements[position].key = K();
-               elements[position].data = DT();
-               position--;
-            }
-        }
-    }
-    
-  
+private:
+	myElement* elements;
+	int arraySize = 10;
+	int positionIndex = 0;
+
+public:
+	//constructor allocates blocks of memory for the container
+	CMap() {
+		//An initial map with a size of 10 potential elements.
+		elements = (myElement*)malloc(sizeof(myElement)*arraySize);
+	}
+
+	//destructor
+	~CMap() {
+		free(elements);
+	}
+
+	//insert Key and Value intio the container and make some potential checks
+	void insert(K key, DT val) {
+		int pos = find(key);
+		if (keyExists(key) == true) { //check if the key already exist into the container ans simplu return a message
+			std::cout << "The key " << elements[pos].Key << " already exists in the container!" << std::endl;
+		}
+		else {
+			elements[positionIndex].Key = key; //add the key into the map container
+			elements[positionIndex].Data = val; //add the value into the map conrainer
+			positionIndex++;
+		}
+
+		//check if the container size exceed 
+		if (positionIndex == arraySize -2) {
+			extendSize(); //reallocate for extra memmory 
+		}
+	}
+
+	//reallocate memory and extend the current map containner
+	void extendSize() {
+		int max = 4294967295;
+		if (sizeof(elements) < max /*&& (sizeof(elements) * 2)<max*/) {
+			elements = (myElement*)realloc(elements, sizeof(myElement)*arraySize * 2);
+			arraySize *= 2;
+			for (int i = positionIndex + 2; i < arraySize; i++) {
+				elements[i].Key = K();
+				elements[i].Data = DT();
+			}
+		}
+		else {
+			std::cout << " You have reached the maximum amount of memory" << std::endl;
+		}
+	}
+
+	//check if key already exists
+	bool keyExists(K key) {
+		for (int i = 0; i < arraySize; i++) {
+			if (elements[i].Key == key) {
+				return true;
+			}
+		}
+		return false;
+	}
+
+	//return the current key
+	K find(K key) {
+		for (int i = 0; i < arraySize; i++) {
+			if (elements[i].Key == key) {
+				return i;
+			}
+		}
+		return -1;
+	}
+
+	//takes as input any key and corespondingly return the key and its value or just say that the key doen't exist into the container
+	void at(K key) {
+		int pos = find(key);
+		if (pos >= 0) {
+			std::cout << "The Key " << elements[pos].Key << " was found with value " << elements[pos].Data << std::endl;
+		}
+		else {
+			std::cout << "The key that you trying to acces doesn't exist!!" << std::endl;
+		}
+	}
+
+	bool isEmpty() {
+		if (positionIndex == 0)
+			return true;
+		else
+			return false;
+	}
+
+	//return the current size of the container
+	int size() {
+		return positionIndex;
+	}
+
+	//swap the curent key with the last key and delete it
+	void erase(K key) {
+		for (int i = 0; i < positionIndex; i++) {
+			if (elements[i].Key == key) {
+				std::cout << "The value " << elements[i].Data << " with key " << elements[i].Key << " was deleted " << std::endl;
+				elements[i].Key = elements[positionIndex - 1].Key;
+				elements[i].Data = elements[positionIndex - 1].Data;
+				elements[positionIndex].Key = K();
+				elements[positionIndex].Data = DT();
+				positionIndex--;
+			}
+		}
+	}
+
+	//print into the console
+	void print()
+	{
+		for (int i = 0; i < positionIndex; i++)
+		{
+			std::cout << elements[i].Key << " " << elements[i].Data << std::endl;
+		}
+	}
 };
-
-  
-  
-  
