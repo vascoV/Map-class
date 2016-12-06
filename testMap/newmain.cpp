@@ -2,26 +2,20 @@
 #include <string>
 #include "CMap.h"
 
-class Fruits
-{
-private:
-    std::string name;
-public:
-    Fruits(std::string fruit) {
-    this->name = fruit;
-    }
-//    std::string setName(std::string frit){
-//        name = f;
-//        
-//    }
-    std::string getFruit(){
-        return name;        
-    }
+class Fruits{
+    private:
+        std::string name;
+    public:
+        Fruits(std::string fruit) {
+            this->name = fruit;
+        }   
+        std::string getFruit(){
+            return name;        
+        }
 };
 
-
 int main() {
-	std::cout << "Hello from the Map test" << std::endl << std::endl;
+	std::cout << "Hello from the Map Class" << std::endl << std::endl;
 
 	
 	std::cout << "----------" << "Object Test" << "----------" << std::endl;
@@ -100,7 +94,7 @@ int main() {
 	chrMap->insert(5, 'e');
 
 	chrMap->print();
-	chrMap->at(6);
+	chrMap->at(5);
 	std::cout << std::endl; //print empty line
 	chrMap->erase(3);
 	std::cout << std::endl; //print empty line
