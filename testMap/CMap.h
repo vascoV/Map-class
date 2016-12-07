@@ -5,7 +5,6 @@ template <typename K, typename DT>
 struct Elements {
     K Key;
     DT Data;
-    Elements* next;
 };
 
 /*
@@ -32,7 +31,7 @@ public:
      * Constructor: used to allocate memory for the array
      */
     CMap() {		//An initial map with a size of 10 potential elements.
-        elements = (myElement*)malloc(sizeof(myElement)*arraySize);
+        elements = (myElement*) calloc(arraySize, sizeof(myElement));
     }
 
     //Destructor used to free blocks of memory
@@ -40,106 +39,114 @@ public:
         free(elements);
     }
 
-	/*
-         * adding elements onto the array, check for key repetition
-         */
-	void insert(K key, DT val) {
-            int pos = find(key); //store the current key into the pos variable
-            if (keyExists(key) == true) { //check if the key already exist into the array 
-                std::cout << "The key " << elements[pos].Key << " already exists in the container!" << std::endl;
-            }
-            else {
-                elements[positionIndex].Key = key; //add the key into the map container
-            	elements[positionIndex].Data = val; //add the value into the map container
-		positionIndex++;
-            }
+    /*
+     * adding elements onto the array, check for key repetition
+     */
+    void insert(K key, DT val) {
+        // 1, 2, 3, 4, 5
+        // 7
+        int pos = find(key); // -1, -1, 3, -1
+       
+        if(pos != -1){
+            
+            throw std::out_of_range("The key already exists");  
+        }
+        
+        elements[positionIndex].Key = key; //add the key into the map container
+        elements[positionIndex].Data = val; //add the value into the map container
 
-            //check if the array is full, if yes reallocates extra positions and memory
-            if (positionIndex == arraySize) {
-                extendSize(); //reallocate for extra memory 
-            }
-	}
+        positionIndex++;
 
-	/*
-         * Extend the array size and reallocates extra memory for the array
-         */ 
-	void extendSize() {
-            elements = (myElement*)realloc(elements, sizeof(myElement)*arraySize * 2); //memory reallocation using realloc
-            arraySize *= 2; //extend the array size
+        //check if the array is full, if yes reallocates extra positions and memory
+        if (positionIndex == arraySize) {
+            extendSize(); //reallocate for extra memory 
+        }
+    }
+
+    /*
+     * Extend the array size and reallocates extra memory for the array
+     */ 
+    void extendSize() {
+        elements = (myElement*)realloc(elements, sizeof(myElement)*arraySize * 2); //memory reallocation using realloc
+        arraySize *= 2; //extend the array size
+
             for (int i = positionIndex + 2; i < arraySize; i++) {
                 elements[i].Key = K();
                 elements[i].Data = DT();
             }
-	}
-	
+    }
 
-	/*
-         * Function for checking if key already exist and retyrn true and false correspondingly 
-         */
-	bool keyExists(K key) {
-            for (int i = 0; i < arraySize; i++) {
-                if (elements[i].Key == key) {
-                    return true;
-		}
-            }
-            return false;
-	}
 
-	/*
-         * Function to find the current key and return it
-         */
-	K find(K key) {
-            for (int i = 0; i < arraySize; i++) {
-                if (elements[i].Key == key) {
-                    return i;
-		}
-            }
-            return -1;
-	}
-
-	//this function takes as argument any key and return the key and its' value or message that the key doesn't exist 
-        void at(K key) {
-            int pos = find(key);
-            if (pos >= 0) {
-                std::cout << "The Key " << elements[pos].Key << " has value " << " '" << elements[pos].Data << "' " << std::endl;
-            }
-            else {
-                std::cout << "The key doesn't exist!" << std::endl;
-            }
-	}
-
-        //check if the array is empty
-	bool isEmpty() {
-            if (positionIndex == 0)
+    /*
+     * Function for checking if key already exist and retyrn true and false correspondingly 
+     */
+    bool keyExists(K key) {
+        for (int i = 0; i < arraySize; i++) {
+            if (elements[i].Key == key) {
                 return true;
-            else
-		return false;
-	}
-
-	//return the current size of the container
-	int size() {
-            return positionIndex;
-	}
-
-	//swap the current key with the last key and delete it
-	void erase(K key) {
-            for (int i = 0; i < positionIndex; i++) {
-                if (elements[i].Key == key) {
-                    std::cout << "The value " << elements[i].Data << " with key " << elements[i].Key << " was deleted " << std::endl;
-                    elements[i].Key = elements[positionIndex - 1].Key;
-                    elements[i].Data = elements[positionIndex - 1].Data;
-                    elements[positionIndex].Key = K();
-                    elements[positionIndex].Data = DT();
-                    positionIndex--;
-		}
             }
-	}
+        }
+        return false;
+    }
 
-	//print into the console
-	void print(){
-            for (int i = 0; i < positionIndex; i++)
-            {
-                std::cout << elements[i].Key << " " << elements[i].Data << std::endl;
+    /*
+     * Function to find the current key and return it
+     */
+    int find(K key) {
+        for (int i = 0; i < arraySize; i++) {
+            if (elements[i].Key == key) {
+                return i;
             }
-	}
+        }
+        
+        return -1;
+    }
+
+    //this function takes as argument any key and return the key and its' value or message that the key doesn't exist 
+    DT at(K key) {
+        int pos = find(key);
+
+        return elements[pos].Data;
+    }
+
+
+    //check if the array is empty
+//    bool isEmpty() {
+//        
+//        return (positionIndex == 0);
+//    }
+
+    //return the current size of the container
+    int size() {
+        return positionIndex;
+    }
+
+    //swap the current key with the last key and delete it
+    void erase(K key) {
+        int pos = find(key);
+        elements[pos].Key = elements[positionIndex - 1].Key;
+        elements[pos].Data = elements[positionIndex - 1].Data;
+        elements[positionIndex].Key = K();
+        elements[positionIndex].Data = DT();
+        positionIndex--;
+        
+        
+        
+        
+        
+        
+        
+        
+//        for (int i = 0; i < positionIndex; i++) {
+//            if (elements[i].Key == key) {
+//                std::cout << "The value " << elements[i].Data << " with key " << elements[i].Key << " was deleted " << std::endl;
+//                elements[i].Key = elements[positionIndex - 1].Key;
+//                elements[i].Data = elements[positionIndex - 1].Data;
+//                elements[positionIndex].Key = K();
+//                elements[positionIndex].Data = DT();
+//                positionIndex--;
+//            }
+//        }
+    }
+
 };
