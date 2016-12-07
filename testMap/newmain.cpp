@@ -27,15 +27,30 @@ int main() {
 //    std::cout << map_ints->at(1) << std::endl;
 //    std::cout << map_ints->at(2) << std::endl;
     
-    CMap<int, std::string>* map_ints = new CMap<int, std::string>;
+//    CMap<int, std::string>* map_ints = new CMap<int, std::string>;
+//    
+//    map_ints->insert(1, "vas");
+//    map_ints->insert(2, "chry");
+//    map_ints->insert(3, "vas");
+//   // map_ints->insert(1, 32);
+//    map_ints->erase(1);
+//
+//    std::cout << map_ints->at(2) << std::endl;
+//    std::cout << map_ints->at(1) << std::endl;
     
-    map_ints->insert(1, "vas");
-    map_ints->insert(2, "chry");
-   // map_ints->insert(1, 32);
-    //map_ints->erase(1);
-
-    std::cout << map_ints->at(1) << std::endl;
-    std::cout << map_ints->at(2) << std::endl;
+    CMap<int, Fruits*>* map_obj = new CMap<int, Fruits*>();
+    
+    map_obj->insert(1, new Fruits("Banana"));
+    map_obj->insert(2, new Fruits("Strawbery"));
+    map_obj->insert(3, new Fruits("orange"));
+    //std::cout << map_obj->at(1)->getFruit();
+    map_obj->erase(1);
+    std::cout << map_obj->at(1)->getFruit();
+            
+    
+    
+    
+    
 
 
     

@@ -67,13 +67,14 @@ public:
      * Extend the array size and reallocates extra memory for the array
      */ 
     void extendSize() {
-        elements = (myElement*)realloc(elements, sizeof(myElement)*arraySize * 2); //memory reallocation using realloc
         arraySize *= 2; //extend the array size
+        elements = (myElement*)realloc(elements, sizeof(myElement)*arraySize); //memory reallocation using realloc
 
-            for (int i = positionIndex + 2; i < arraySize; i++) {
-                elements[i].Key = K();
-                elements[i].Data = DT();
-            }
+
+//            for (int i = positionIndex + 2; i < arraySize; i++) {
+//                elements[i].Key = K();
+//                elements[i].Data = DT();
+//            }
     }
 
 
@@ -105,7 +106,10 @@ public:
     //this function takes as argument any key and return the key and its' value or message that the key doesn't exist 
     DT at(K key) {
         int pos = find(key);
-
+         if(pos == -1)
+             
+            throw std::out_of_range("The key doesn't exist");  
+   
         return elements[pos].Data;
     }
 
@@ -124,29 +128,14 @@ public:
     //swap the current key with the last key and delete it
     void erase(K key) {
         int pos = find(key);
-        elements[pos].Key = elements[positionIndex - 1].Key;
-        elements[pos].Data = elements[positionIndex - 1].Data;
-        elements[positionIndex].Key = K();
-        elements[positionIndex].Data = DT();
+        elements[pos].Key = elements[positionIndex].Key;
+        elements[pos].Data = elements[positionIndex].Data;
+//        elements[positionIndex].Key = K();
+//        elements[positionIndex].Data = DT();
         positionIndex--;
         
         
         
-        
-        
-        
-        
-        
-//        for (int i = 0; i < positionIndex; i++) {
-//            if (elements[i].Key == key) {
-//                std::cout << "The value " << elements[i].Data << " with key " << elements[i].Key << " was deleted " << std::endl;
-//                elements[i].Key = elements[positionIndex - 1].Key;
-//                elements[i].Data = elements[positionIndex - 1].Data;
-//                elements[positionIndex].Key = K();
-//                elements[positionIndex].Data = DT();
-//                positionIndex--;
-//            }
-//        }
     }
 
 };
