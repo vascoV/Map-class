@@ -25,8 +25,8 @@ int main() {
 //    
 //    map_ints->insert(1, 19);
 //    map_ints->insert(2, 11);
-//   // map_ints->insert(1, 32);
-//    //map_ints->erase(1);
+//    map_ints->insert(1, 32);
+//    map_ints->erase(1);
 //
 //    std::cout << map_ints->at(1) << std::endl;
 //    std::cout << map_ints->at(2) << std::endl;
@@ -36,10 +36,10 @@ int main() {
 //    map_ints->insert(1, "vasils");
 //    map_ints->insert(3, "alkis");
 //    map_ints->insert(2, "poop");
-//   // map_ints->insert(1, 32);
-//    //map_ints->erase(1);
-//    //map_ints->insert(1, "dsfd");
-////
+//    map_ints->insert(1, 32);
+//    map_ints->erase(1);
+//    map_ints->insert(1, "dsfd");
+//
 //    std::cout << map_ints->at(2) << std::endl;
 //    std::cout << map_ints->at(1) << std::endl;
 //    std::cout << map_ints->at(3) << std::endl;
@@ -166,12 +166,12 @@ int main() {
 	chrMap->insert(4, 'd');
 	chrMap->insert(5, 'e');
 
-	//chrMap->print();
-	std::cout << chrMap->at(5) << std::endl;
+	chrMap->print();
+//	std::cout << chrMap->at(5) << std::endl;
 	std::cout << std::endl; //print empty line
 	chrMap->erase(3);
-        std::cout << chrMap->at(3) << std::endl;
-	//std::cout << std::endl; //print empty line
+//        std::cout << chrMap->at(3) << std::endl;
+	std::cout << std::endl; //print empty line
 	chrMap->print();
 //
 //	std::cout << std::endl;

@@ -27,16 +27,8 @@ private:
     myElement* elements;
     int arraySize = 10;
     int positionIndex = 0;
-
-/*
- * The public: all the methods canbe accessed outside the class
- */    
+   
 public:
-    void print(){
-        for(int i = 0; i < positionIndex; i++){
-            std::cout << elements[i] << std::endl;
-        }
-    }
     /*
      * Constructor: used to allocate memory for the array
      */
@@ -47,6 +39,7 @@ public:
     //Destructor used to free blocks of memory
     ~CMap() {
         free(elements);
+        delete elements;
     }
 
     /*
@@ -138,11 +131,31 @@ public:
     //swap the current key with the last key and delete it
     void erase(K key) {
         int pos = find(key);
-        elements[pos].Key = elements[positionIndex].Key;
-        elements[pos].Data = elements[positionIndex].Data;
-//        elements[positionIndex].Key = K();
-//        elements[positionIndex].Data = DT();
+        for(int i = pos; i < positionIndex; i++){
+            elements[i].Key = elements[i + 1].Key;
+            elements[i].Data = elements[i + 1].Data;
+        }
         positionIndex--;
+        //empry array
+//        delete[] elements;
+//        arraySize = 10;
+//        positionIndex = 0;
+//        elements = (myElement*)calloc(arraySize, sizeof(myElement));
+        
+        
+        
+//        elements[pos].Key = elements[positionIndex-1].Key;
+//        elements[pos].Data = elements[positionIndex-1].Data;
+////        elements[positionIndex].Key = K();
+////        elements[positionIndex].Data = DT();
+//        positionIndex--;
+//        positionIndex--;
+    }
+    
+    void print(){
+        for(int i = 0; i < positionIndex; i++){
+            std::cout << elements[i] << std::endl;
+        }
     }
 
 };
