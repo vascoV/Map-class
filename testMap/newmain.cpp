@@ -12,6 +12,10 @@ class Fruits{
         std::string getFruit(){
             return name;        
         }
+//    friend std::ostream &operator<<(std::ostream &output, const Fruits &pair){
+//        output << getFruit();
+//        return output;
+//    }
 };
 
 int main() {
@@ -29,14 +33,18 @@ int main() {
     
 //    CMap<int, std::string>* map_ints = new CMap<int, std::string>;
 //    
-//    map_ints->insert(1, "vas");
-//    map_ints->insert(2, "chry");
-//    map_ints->insert(3, "vas");
+//    map_ints->insert(1, "vasils");
+//    map_ints->insert(3, "alkis");
+//    map_ints->insert(2, "poop");
 //   // map_ints->insert(1, 32);
-//    map_ints->erase(1);
-//
+//    //map_ints->erase(1);
+//    //map_ints->insert(1, "dsfd");
+////
 //    std::cout << map_ints->at(2) << std::endl;
 //    std::cout << map_ints->at(1) << std::endl;
+//    std::cout << map_ints->at(3) << std::endl;
+//    
+//    map_ints->print();
     
     CMap<int, Fruits*>* map_obj = new CMap<int, Fruits*>();
     
@@ -44,9 +52,11 @@ int main() {
     map_obj->insert(2, new Fruits("Strawbery"));
     map_obj->insert(3, new Fruits("orange"));
     //std::cout << map_obj->at(1)->getFruit();
-    map_obj->erase(1);
-    std::cout << map_obj->at(1)->getFruit();
-            
+    //map_obj->erase(1);
+    std::cout << map_obj->at(1)->getFruit() << std::endl;;
+    std::cout << map_obj->at(2)->getFruit() << std::endl;;
+    
+    map_obj->print();
     
     
     
@@ -147,21 +157,22 @@ int main() {
 //	std::cout << std::endl;
 //	std::cout << "My Map contains " << intMap->size() << " integers." << std::endl << std::endl;
 //
-//	std::cout << "----------" << "Characters Test" << "----------" << std::endl;
-//	CMap<int, char>* chrMap = new CMap<int, char>();
-//
-//	chrMap->insert(1, 'a');
-//	chrMap->insert(2, 'b');
-//	chrMap->insert(3, 'c');
-//	chrMap->insert(4, 'd');
-//	chrMap->insert(5, 'e');
-//
-//	chrMap->print();
-//	chrMap->at(5);
-//	std::cout << std::endl; //print empty line
-//	chrMap->erase(3);
-//	std::cout << std::endl; //print empty line
-//	chrMap->print();
+	std::cout << "----------" << "Characters Test" << "----------" << std::endl;
+	CMap<int, char>* chrMap = new CMap<int, char>();
+
+	chrMap->insert(1, 'a');
+	chrMap->insert(2, 'b');
+	chrMap->insert(3, 'c');
+	chrMap->insert(4, 'd');
+	chrMap->insert(5, 'e');
+
+	//chrMap->print();
+	std::cout << chrMap->at(5) << std::endl;
+	std::cout << std::endl; //print empty line
+	chrMap->erase(3);
+        std::cout << chrMap->at(3) << std::endl;
+	//std::cout << std::endl; //print empty line
+	chrMap->print();
 //
 //	std::cout << std::endl;
 //	std::cout << "My Map contains " << chrMap->size() << " characters." << std::endl << std::endl;

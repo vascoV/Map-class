@@ -5,6 +5,11 @@ template <typename K, typename DT>
 struct Elements {
     K Key;
     DT Data;
+    
+    friend std::ostream &operator<<(std::ostream &output, const Elements<K, DT> &pair){
+        output << pair.Key << " " << pair.Data;
+        return output;
+    }
 };
 
 /*
@@ -27,11 +32,16 @@ private:
  * The public: all the methods canbe accessed outside the class
  */    
 public:
+    void print(){
+        for(int i = 0; i < positionIndex; i++){
+            std::cout << elements[i] << std::endl;
+        }
+    }
     /*
      * Constructor: used to allocate memory for the array
      */
     CMap() {		//An initial map with a size of 10 potential elements.
-        elements = (myElement*) calloc(arraySize, sizeof(myElement));
+        elements = (myElement*)calloc(arraySize, sizeof(myElement));
     }
 
     //Destructor used to free blocks of memory
@@ -133,9 +143,6 @@ public:
 //        elements[positionIndex].Key = K();
 //        elements[positionIndex].Data = DT();
         positionIndex--;
-        
-        
-        
     }
 
 };
