@@ -46,8 +46,7 @@ public:
      * adding elements onto the array, check for key repetition
      */
     void insert(K key, DT val) {
-        // 1, 2, 3, 4, 5
-        // 7
+       
         int pos = find(key); // -1, -1, 3, -1
        
         if(pos != -1){
@@ -72,12 +71,6 @@ public:
     void extendSize() {
         arraySize *= 2; //extend the array size
         elements = (myElement*)realloc(elements, sizeof(myElement)*arraySize); //memory reallocation using realloc
-
-
-//            for (int i = positionIndex + 2; i < arraySize; i++) {
-//                elements[i].Key = K();
-//                elements[i].Data = DT();
-//            }
     }
 
 
@@ -101,8 +94,7 @@ public:
             if (elements[i].Key == key) {
                 return i;
             }
-        }
-        
+        }  
         return -1;
     }
 
@@ -128,7 +120,7 @@ public:
         return positionIndex;
     }
 
-    //swap the current key with the last key and delete it
+    //erase, remove the pair and move the position
     void erase(K key) {
         int pos = find(key);
         for(int i = pos; i < positionIndex; i++){
@@ -157,5 +149,69 @@ public:
             std::cout << elements[i] << std::endl;
         }
     }
-
+    
+    /*
+     * Quick sort function
+     */
+    void qSort(myElement* e, int left, int right){
+        
+        int i = left,
+            j = right;
+        
+        myElement* tmp;
+        
+        int pivot = e[(i+j) / 2].Key; //finds the middle element of the array
+        
+        while ( i <= j){ //check the number of the left side with the right side and swap the smallest from the right to the left side
+            while( e[i]->Key > pivot)
+                i++;
+            while( e[j]->Key > pivot)
+                j++;
+            //start swapping
+            if(i <= j){
+                tmp->Key = e[i]->Key;
+		e[i]->Key = e[j]->Key;
+		e[j]->Key = tmp->Key;
+		i++;
+		j--;
+            }
+            
+            
+        };
+        /* recursion */
+        if (left < j)
+            qSort(e, left, j);
+        if (i < right)
+            qSort(e, i, right);
+    }
+    
+    
+    
+//    void quickSort(Measurement measurements[], int left, int right)
+//{
+//	int i = left, j = right;
+//	Measurement tmp;
+//	int pivot = measurements[(i + j) / 2].theReading; // finds the middle element of the array
+//
+//	/* partition */
+//	while (i <= j) { // check the number of the left side with the right side and swap the smallest from the right to the left sight
+//		while (measurements[i].theReading < pivot) 
+//			i++;
+//		while (measurements[j].theReading > pivot)
+//			j--;
+//		// start swaping
+//		if (i <= j) {
+//			tmp.theReading = measurements[i].theReading;
+//			measurements[i].theReading = measurements[j].theReading;
+//			measurements[j].theReading = tmp.theReading;
+//			i++;
+//			j--;
+//		}
+//	};
+//	/* recursion */
+//	if (left < j)
+//		quickSort(measurements, left, j);
+//	if (i < right)
+//		quickSort(measurements, i, right);
+//}
 };
