@@ -33,9 +33,9 @@ int main() {
     
     CMap<int, std::string>* map_ints = new CMap<int, std::string>;
     
-    map_ints->insert(1, "vasils");
-    map_ints->insert(3, "alkis");
-    map_ints->insert(2, "poop");
+    map_ints->insert(1, "Test1");
+    map_ints->insert(3, "Test2");
+    map_ints->insert(2, "Test3");
     
     map_ints->print();
 //    map_ints->erase(1);

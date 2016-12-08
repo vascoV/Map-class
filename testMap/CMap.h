@@ -47,12 +47,13 @@ public:
      */
     void insert(K key, DT val) {
        
-        int pos = find(key); // -1, -1, 3, -1
+        int pos = find(key); // 
        
         if(pos != -1){
             
             throw std::out_of_range("The key already exists");  
         }
+       // qSort(elements);
         
         elements[positionIndex].Key = key; //add the key into the map container
         elements[positionIndex].Data = val; //add the value into the map container
@@ -174,9 +175,7 @@ public:
 		e[j]->Key = tmp->Key;
 		i++;
 		j--;
-            }
-            
-            
+            }    
         };
         /* recursion */
         if (left < j)
