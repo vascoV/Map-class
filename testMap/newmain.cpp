@@ -22,22 +22,28 @@ int main() {
     
     
 //    CMap<int, int>* map_ints = new CMap<int, int>;
-//    
+    
 //    map_ints->insert(1, 19);
 //    map_ints->insert(2, 11);
-//    map_ints->insert(1, 32);
+//    map_ints->insert(3, 32);
+//    map_ints->print();
+//    
+//    std::cout << map_ints->at(3) << std::endl;
 //    map_ints->erase(1);
-//
+
 //    std::cout << map_ints->at(1) << std::endl;
 //    std::cout << map_ints->at(2) << std::endl;
     
-    CMap<int, std::string>* map_ints = new CMap<int, std::string>;
+    CMap<int, std::string>* map_strings = new CMap<int, std::string>;
     
-    map_ints->insert(1, "Test1");
-    map_ints->insert(3, "Test2");
-    map_ints->insert(2, "Test3");
+    map_strings->insert(2, "Test2");
+    map_strings->insert(3, "Test3");
+    map_strings->insert(1, "Test1");
+    map_strings->print();
     
-    map_ints->print();
+    map_strings->qSort(0, 2);
+    std::cout << std::endl;
+    map_strings->print();
 //    map_ints->erase(1);
 //    map_ints->insert(1, "dsfd");
 
@@ -48,11 +54,11 @@ int main() {
 //    map_ints->print();
     
 //    CMap<int, Fruits*>* map_obj = new CMap<int, Fruits*>();
-//    
+    
 //    map_obj->insert(1, new Fruits("Banana"));
-//    map_obj->insert(2, new Fruits("Strawbery"));
-//    map_obj->insert(3, new Fruits("orange"));
-//    //std::cout << map_obj->at(1)->getFruit();
+//    map_obj->insert(2, new Fruits("Strawberry"));
+//    map_obj->insert(3, new Fruits("Orange"));
+//    std::cout << map_obj->at(1)->getFruit();
 //    //map_obj->erase(1);
 //    std::cout << map_obj->at(1)->getFruit() << std::endl;;
 //    std::cout << map_obj->at(2)->getFruit() << std::endl;;

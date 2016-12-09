@@ -154,63 +154,73 @@ public:
     /*
      * Quick sort function
      */
-    void qSort(myElement* e, int left, int right){
+    void qSort(int left, int right){
         
         int i = left,
             j = right;
         
-        myElement* tmp;
         
-        int pivot = e[(i+j) / 2].Key; //finds the middle element of the array
+        myElement tmp;
+        int pivot = elements[(i+j) / 2].Key; //finds the middle element of the array
         
         while ( i <= j){ //check the number of the left side with the right side and swap the smallest from the right to the left side
-            while( e[i]->Key > pivot)
+            while( elements[i].Key > pivot)
                 i++;
-            while( e[j]->Key > pivot)
+            while( elements[j].Key > pivot)
                 j++;
             //start swapping
             if(i <= j){
-                tmp->Key = e[i]->Key;
-		e[i]->Key = e[j]->Key;
-		e[j]->Key = tmp->Key;
+                tmp.Key = elements[i].Key;
+                tmp.Data = elements[j].Data;
+                
+		elements[i].Key = elements[j].Key;
+                elements[j].Data = elements[i].Data;
+                
+		elements[j].Key = tmp.Key;
+                elements[j].Data = tmp.Data;
 		i++;
 		j--;
             }    
         };
         /* recursion */
         if (left < j)
-            qSort(e, left, j);
+            qSort(left, j);
         if (i < right)
-            qSort(e, i, right);
+            qSort(i, right);
     }
     
-    
-    
-//    void quickSort(Measurement measurements[], int left, int right)
-//{
-//	int i = left, j = right;
-//	Measurement tmp;
-//	int pivot = measurements[(i + j) / 2].theReading; // finds the middle element of the array
-//
-//	/* partition */
-//	while (i <= j) { // check the number of the left side with the right side and swap the smallest from the right to the left sight
-//		while (measurements[i].theReading < pivot) 
-//			i++;
-//		while (measurements[j].theReading > pivot)
-//			j--;
-//		// start swaping
-//		if (i <= j) {
-//			tmp.theReading = measurements[i].theReading;
-//			measurements[i].theReading = measurements[j].theReading;
-//			measurements[j].theReading = tmp.theReading;
-//			i++;
-//			j--;
-//		}
-//	};
-//	/* recursion */
-//	if (left < j)
-//		quickSort(measurements, left, j);
-//	if (i < right)
-//		quickSort(measurements, i, right);
-//}
+//    void qSort(myElement* e, int left, int right){
+//        
+//        int i = left,
+//            j = right;
+//        
+//        myElement tmp;
+//        
+//        int pivot = e[(i+j) / 2].Key; //finds the middle element of the array
+//        
+//        while ( i <= j){ //check the number of the left side with the right side and swap the smallest from the right to the left side
+//            while( e[i].Key > pivot)
+//                i++;
+//            while( e[j].Key > pivot)
+//                j++;
+//            //start swapping
+//            if(i <= j){
+//                tmp.Key = e[i].Key;
+//                tmp.Data = e[j].Data;
+//                
+//		e[i].Key = e[j].Key;
+//                e[i].Data = e[i].Data;
+//                
+//		e[j].Key = tmp.Key;
+//                e[j].Data = tmp.Data;
+//		i++;
+//		j--;
+//            }    
+//        };
+//        /* recursion */
+//        if (left < j)
+//            qSort(e, left, j);
+//        if (i < right)
+//            qSort(e, i, right);
+//    }
 };
