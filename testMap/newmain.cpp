@@ -44,7 +44,7 @@ int main() {
     map_strings->insert(2, "Test2");
     map_strings->insert(3, "Test3");
     map_strings->insert(1, "Test1");
-    map_strings->insert(65, "Test65");
+    //map_strings->insert(65, "Test65");
 //    map_strings->insert(21, "Test21");
 //    map_strings->insert(14, "Test14");
 //    map_strings->insert(18, "Test18");
@@ -56,7 +56,7 @@ int main() {
     
     map_strings->print();
     
-    map_strings->qSort(0, 3);
+    map_strings->qSort(0, 2);
     std::cout << std::endl;
     map_strings->print();
 //    map_ints->erase(1);

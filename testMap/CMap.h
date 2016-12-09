@@ -2,11 +2,11 @@
  * This struct is used to group the Key and the Data under one element
  */
 template <typename K, typename DT>
-struct Elements {
+struct Element {
     K Key;
     DT Data;
     
-    friend std::ostream &operator<<(std::ostream &output, const Elements<K, DT> &pair){
+    friend std::ostream &operator<<(std::ostream &output, const Element<K, DT> &pair){
         output << pair.Key << " " << pair.Data;
         return output;
     }
@@ -18,21 +18,25 @@ struct Elements {
 template <typename K, typename DT>
 class CMap
 {
-    typedef Elements<K, DT> myElement;
+    typedef Element<K, DT> myElement;
 
 /*
  *The private: only the class can access the data
  */    
 private:
     myElement* elements;
-    int arraySize = 10;
-    int positionIndex = 0;
+    int arraySize;
+    int positionIndex;
    
 public:
     /*
      * Constructor: used to allocate memory for the array
      */
-    CMap() {		//An initial map with a size of 10 potential elements.
+    CMap() {		
+        arraySize = 10;
+        positionIndex = 0;
+        
+        //An initial map with a size of 10 potential elements.
         elements = (myElement*)calloc(arraySize, sizeof(myElement));
     }
 
@@ -189,39 +193,4 @@ public:
         if (i < right)
             qSort(i, right);
     }
-    
-//    void qSort(myElement* e, int left, int right){
-//        
-//        int i = left,
-//            j = right;
-//        
-//        myElement tmp;
-//        
-//        int pivot = e[(i+j) / 2].Key; //finds the middle element of the array
-//        
-//        while ( i <= j){ //check the number of the left side with the right side and swap the smallest from the right to the left side
-//            while( e[i].Key > pivot)
-//                i++;
-//            while( e[j].Key > pivot)
-//                j++;
-//            //start swapping
-//            if(i <= j){
-//                tmp.Key = e[i].Key;
-//                tmp.Data = e[j].Data;
-//                
-//		e[i].Key = e[j].Key;
-//                e[i].Data = e[i].Data;
-//                
-//		e[j].Key = tmp.Key;
-//                e[j].Data = tmp.Data;
-//		i++;
-//		j--;
-//            }    
-//        };
-//        /* recursion */
-//        if (left < j)
-//            qSort(e, left, j);
-//        if (i < right)
-//            qSort(e, i, right);
-//    }
 };
