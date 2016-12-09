@@ -20,12 +20,17 @@ class Fruits{
 
 int main() {
     
-    
+//    
 //    CMap<int, int>* map_ints = new CMap<int, int>;
-    
+//    
 //    map_ints->insert(1, 19);
-//    map_ints->insert(2, 11);
-//    map_ints->insert(3, 32);
+//    map_ints->insert(3, 11);
+//    map_ints->insert(2, 32);
+//    map_ints->print();
+//    
+//    
+//     std::cout << std::endl;
+//    
 //    map_ints->print();
 //    
 //    std::cout << map_ints->at(3) << std::endl;
@@ -34,14 +39,24 @@ int main() {
 //    std::cout << map_ints->at(1) << std::endl;
 //    std::cout << map_ints->at(2) << std::endl;
     
-    CMap<int, std::string>* map_strings = new CMap<int, std::string>;
+    CMap<int, std::string>* map_strings = new CMap<int, std::string>();
     
     map_strings->insert(2, "Test2");
     map_strings->insert(3, "Test3");
     map_strings->insert(1, "Test1");
+    map_strings->insert(65, "Test65");
+//    map_strings->insert(21, "Test21");
+//    map_strings->insert(14, "Test14");
+//    map_strings->insert(18, "Test18");
+//    map_strings->insert(5, "Test5");
+//    map_strings->insert(9, "Test9");
+//    map_strings->insert(10, "Test10");
+
+    
+    
     map_strings->print();
     
-    map_strings->qSort(0, 2);
+    map_strings->qSort(0, 3);
     std::cout << std::endl;
     map_strings->print();
 //    map_ints->erase(1);

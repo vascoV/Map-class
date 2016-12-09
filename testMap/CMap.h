@@ -163,18 +163,19 @@ public:
         myElement tmp;
         int pivot = elements[(i+j) / 2].Key; //finds the middle element of the array
         
+        /*partitions*/
         while ( i <= j){ //check the number of the left side with the right side and swap the smallest from the right to the left side
-            while( elements[i].Key > pivot)
+            while(elements[i].Key < pivot)
                 i++;
-            while( elements[j].Key > pivot)
+            while(elements[j].Key > pivot)
                 j++;
-            //start swapping
+            //start swapping 
             if(i <= j){
                 tmp.Key = elements[i].Key;
-                tmp.Data = elements[j].Data;
+                tmp.Data = elements[i].Data;
                 
 		elements[i].Key = elements[j].Key;
-                elements[j].Data = elements[i].Data;
+                elements[i].Data = elements[j].Data;
                 
 		elements[j].Key = tmp.Key;
                 elements[j].Data = tmp.Data;
