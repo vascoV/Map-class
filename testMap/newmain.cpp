@@ -12,21 +12,22 @@ class Fruits{
         std::string getFruit(){
             return name;        
         }
-//    friend std::ostream &operator<<(std::ostream &output, const Fruits &pair){
-//        output << getFruit();
-//        return output;
-//    }
 };
 
 int main() {
     
 //    
-//    CMap<int, int>* map_ints = new CMap<int, int>;
-//    
-//    map_ints->insert(1, 19);
-//    map_ints->insert(3, 11);
-//    map_ints->insert(2, 32);
-//    map_ints->print();
+    CMap<int, int>* map_ints = new CMap<int, int>;
+    
+    map_ints->insert(1, 19);
+    map_ints->insert(3, 11);
+    map_ints->insert(2, 32);
+    map_ints->insert(4, 32);
+
+    
+  //  map_ints->qSort(0, 3);
+    
+    map_ints->print();
 //    
 //    
 //     std::cout << std::endl;
@@ -39,12 +40,12 @@ int main() {
 //    std::cout << map_ints->at(1) << std::endl;
 //    std::cout << map_ints->at(2) << std::endl;
     
-    CMap<int, std::string>* map_strings = new CMap<int, std::string>();
-    
-    map_strings->insert(2, "Test2");
-    map_strings->insert(3, "Test3");
-    map_strings->insert(1, "Test1");
-    //map_strings->insert(65, "Test65");
+//    CMap<int, std::string>* map_strings = new CMap<int, std::string>();
+//    
+//    map_strings->insert(2, "Test2");
+//    map_strings->insert(3, "Test3");
+//    map_strings->insert(1, "Test1");
+//    map_strings->insert(65, "Test65");
 //    map_strings->insert(21, "Test21");
 //    map_strings->insert(14, "Test14");
 //    map_strings->insert(18, "Test18");
@@ -54,11 +55,11 @@ int main() {
 
     
     
-    map_strings->print();
+    //map_strings->print();
     
-    map_strings->qSort(0, 2);
-    std::cout << std::endl;
-    map_strings->print();
+//    map_strings->qSort(0, 2);
+//    std::cout << std::endl;
+//    map_strings->print();
 //    map_ints->erase(1);
 //    map_ints->insert(1, "dsfd");
 

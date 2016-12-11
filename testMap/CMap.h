@@ -158,39 +158,41 @@ public:
     /*
      * Quick sort function
      */
-    void qSort(int left, int right){
-        
-        int i = left,
-            j = right;
-        
-        
-        myElement tmp;
-        int pivot = elements[(i+j) / 2].Key; //finds the middle element of the array
-        
-        /*partitions*/
-        while ( i <= j){ //check the number of the left side with the right side and swap the smallest from the right to the left side
-            while(elements[i].Key < pivot)
-                i++;
-            while(elements[j].Key > pivot)
-                j++;
-            //start swapping 
-            if(i <= j){
-                tmp.Key = elements[i].Key;
-                tmp.Data = elements[i].Data;
-                
-		elements[i].Key = elements[j].Key;
-                elements[i].Data = elements[j].Data;
-                
-		elements[j].Key = tmp.Key;
-                elements[j].Data = tmp.Data;
-		i++;
-		j--;
-            }    
-        };
-        /* recursion */
-        if (left < j)
-            qSort(left, j);
-        if (i < right)
-            qSort(i, right);
-    }
+//    void qSort(int left, int right){
+//        
+//        int i = left,
+//            j = right;
+//        
+//        K tmp;
+//        
+//        //myElement tmp;
+//        int pivot = positionIndex/2;//this->size()/2; //finds the middle element of the array
+//        
+//        /*partitions*/
+//        while ( i <= j){ //check the number of the left side with the right side and swap the smallest from the right to the left side
+//            while(elements[i].Key < elements[pivot].Key)
+//                i++;
+//            while(elements[j].Key > elements[pivot].Key)
+//                j++;
+//            //start swapping 
+//            if(i <= j){
+//                tmp = elements[i].Key;
+//                tmp = elements[i].Data;
+//                
+//		elements[i].Key = elements[j].Key;
+//                elements[i].Data = elements[j].Data;
+//                
+//		elements[j].Key = tmp;
+//                elements[j].Data = tmp;
+//		i++;
+//		j--;
+//            }    
+//        }
+//        /* recursion */
+//        if (left < j)
+//            qSort(left, j);
+//        if (i < right)
+//            qSort(i, right);
+//    }
+       
 };
