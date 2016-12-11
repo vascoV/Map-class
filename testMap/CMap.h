@@ -1,15 +1,40 @@
-/*
- * This struct is used to group the Key and the Data under one element
- */
+
 template <typename K, typename DT>
-struct Element {
+class Element {
+    private:
     K Key;
     DT Data;
-    
-    friend std::ostream &operator<<(std::ostream &output, const Element<K, DT> &pair){
-        output << pair.Key << " " << pair.Data;
-        return output;
-    }
+    Element* next;
+    public:
+        Element(K &key, DT &data){
+            this->Key = key;
+            this->Data = data;
+            next = nullptr;
+        }
+        
+        K getKey(){
+            return Key;
+        }
+        
+        DT getData(){
+            return Data;
+        }
+        
+        Element* getNext(){
+            return next;
+        }
+        
+        void setData(DT data){
+            this->Data = data;
+        }
+        
+        void setNext(Element* next){
+            this->next = next;
+        }
+//    friend std::ostream &operator<<(std::ostream &output, const Element<K, DT> &pair){
+//        output << pair.Key << " " << pair.Data;
+//        return output;
+//    }
 };
 
 /*
@@ -24,10 +49,12 @@ class CMap
  *The private: only the class can access the data
  */    
 private:
-    myElement* elements;
+    myElement** elements;
     int arraySize;
     int positionIndex;
-   
+    
+    
+    
 public:
     /*
      * Constructor: used to allocate memory for the array
@@ -37,17 +64,24 @@ public:
         positionIndex = 0;
         
         //An initial map with a size of 10 potential elements.
-        elements = (myElement*)calloc(arraySize, sizeof(myElement));
+        elements = new myElement*[arraySize]();
+   
+//        for(int i = 0; i < arraySize; i++)
+//        {
+//           std::cout << elements[i] << std::endl; 
+//        }    
     }
 
     //Destructor used to free blocks of memory
-    ~CMap() {
-        free(elements);
-        delete elements;
-    }
+//    ~CMap() {
+//        for(int i = 0; i <= positionIndex; i++){
+//            delete elements[i];
+//        }
+//        delete elements;
+//    }
 
     /*
-     * adding elements onto the array, check for key repetition
+     * Adding elements onto the array, check for key repetition
      */
     void insert(K key, DT val) {
        
@@ -57,46 +91,49 @@ public:
             
             throw std::out_of_range("The key already exists");  
         }
-       // qSort(elements);
-        
-        elements[positionIndex].Key = key; //add the key into the map container
-        elements[positionIndex].Data = val; //add the value into the map container
-
-        positionIndex++;
+        else{
+            myElement* tmp= new myElement(key,val);
+            elements[positionIndex]=tmp;
+            positionIndex++;
+        }
 
         //check if the array is full, if yes reallocates extra positions and memory
-        if (positionIndex == arraySize) {
-            extendSize(); //reallocate for extra memory 
-        }
+//        if (positionIndex == arraySize) {
+//            extendSize(); //extend the array size
+//        }
     }
 
     /*
-     * Extend the array size and reallocates extra memory for the array
+     * Extend the array size
      */ 
     void extendSize() {
-        arraySize *= 2; //extend the array size
-        elements = (myElement*)realloc(elements, sizeof(myElement)*arraySize); //memory reallocation using realloc
+        int newSize = arraySize *2; //extend the array size
+        myElement** newElements = new myElement*[arraySize]();
+        memcpy(newElements, elements, arraySize*sizeof(myElement)); //copy the old array to the new array
+        arraySize = newSize;
+        delete[] elements;
+        elements = newElements; //point the start of the newElements
     }
 
 
     /*
-     * Function for checking if key already exist and retyrn true and false correspondingly 
+     * Function for checking if key already exist and return true and false correspondingly 
      */
-    bool keyExists(K key) {
-        for (int i = 0; i < arraySize; i++) {
-            if (elements[i].Key == key) {
-                return true;
-            }
-        }
-        return false;
-    }
+//    bool keyExists(K key) {
+//        for (int i = 0; i < arraySize; i++) {
+//            if (elements[i].Key == key) {
+//                return true;
+//            }
+//        }
+//        return false;
+//    }
 
     /*
      * Function to find the current key and return it
      */
     int find(K key) {
-        for (int i = 0; i < arraySize; i++) {
-            if (elements[i].Key == key) {
+        for (int i = 0; i < positionIndex; i++) {
+            if (elements[i]->getKey() == key) {
                 return i;
             }
         }  
@@ -110,50 +147,44 @@ public:
              
             throw std::out_of_range("The key doesn't exist");  
    
-        return elements[pos].Data;
+        return elements[pos]->getData();
     }
-
-
-    //check if the array is empty
-//    bool isEmpty() {
-//        
-//        return (positionIndex == 0);
-//    }
-
-    //return the current size of the container
-    int size() {
-        return positionIndex;
-    }
+    
 
     //erase, remove the pair and move the position
     void erase(K key) {
         int pos = find(key);
         for(int i = pos; i < positionIndex; i++){
-            elements[i].Key = elements[i + 1].Key;
-            elements[i].Data = elements[i + 1].Data;
+            elements[i]->getNext();
+            elements[i]->getKey() = elements[i + 1]->getKey();
+            elements[i]->getData() = elements[i + 1]->getData();
         }
         positionIndex--;
+        
+//******************************************************************************
         //empry array
 //        delete[] elements;
 //        arraySize = 10;
 //        positionIndex = 0;
 //        elements = (myElement*)calloc(arraySize, sizeof(myElement));
-        
-        
-        
-//        elements[pos].Key = elements[positionIndex-1].Key;
-//        elements[pos].Data = elements[positionIndex-1].Data;
-////        elements[positionIndex].Key = K();
-////        elements[positionIndex].Data = DT();
-//        positionIndex--;
-//        positionIndex--;
+//******************************************************************************        
     }
+    
     
     void print(){
         for(int i = 0; i < positionIndex; i++){
-            std::cout << elements[i] << std::endl;
+            std::cout << elements[i]->getKey() << " " << elements[i]->getNext() << std::endl;
         }
     }
+    
+    
+    /*
+     * Return the current size of the container 
+     */
+    int getSize() {
+        return positionIndex;
+    }
+    
     
     /*
      * Quick sort function
