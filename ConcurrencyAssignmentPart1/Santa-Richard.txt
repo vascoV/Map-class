@@ -1,0 +1,648 @@
+Time 3: Santa Richard	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+Time 4: Santa Richard	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+Time 4: Santa Richard	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 4: Santa Richard	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 4: Santa Richard	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+Time 5: Santa Richard	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 7: Santa Richard	Walked back to his own allocated department
+Time 8: Santa Richard	Gives Toy Gift Guitar	wrapped in pink wrapping paper
+Time 10: Santa Richard	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
+Time 12: Santa Richard	Gives Toy Gift Doll	wrapped in silver wrapping paper
+Time 13: Santa Richard	Gives Toy Gift Tablet	wrapped in red wrapping paper
+Time 15: Santa Richard	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
+Time 16: Santa Richard	Gives Toy Gift Doll	wrapped in silver wrapping paper
+Time 17: Santa Richard	Walked back to the Toy Store!
+Time 17: Santa Richard	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+Time 17: Santa Richard	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
+Time 17: Santa Richard	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+Time 17: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 17: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 17: Santa Richard	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+Time 17: Santa Richard	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+Time 17: Santa Richard	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
+Time 17: Santa Richard	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 17: Santa Richard	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 19: Santa Richard	Walked back to his own allocated department
+Time 21: Santa Richard	Gives Toy Gift Guitar	wrapped in silver wrapping paper
+Time 22: Santa Richard	Gives Toy Gift Tablet	wrapped in silver wrapping paper
+Time 24: Santa Richard	Gives Toy Gift Drone	wrapped in red wrapping paper
+Time 25: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 27: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 28: Santa Richard	Gives Toy Gift Guitar	wrapped in red wrapping paper
+Time 30: Santa Richard	Gives Toy Gift Tablet	wrapped in blue wrapping paper
+Time 31: Santa Richard	Gives Toy Gift Barbie	wrapped in silver wrapping paper
+Time 32: Santa Richard	Gives Toy Gift PC	wrapped in red wrapping paper
+Time 34: Santa Richard	Gives Toy Gift Drone	wrapped in pink wrapping paper
+Time 34: Santa Richard	Walked back to the Toy Store!
+Time 34: Santa Richard	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+Time 34: Santa Richard	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
+Time 34: Santa Richard	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+Time 34: Santa Richard	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
+Time 34: Santa Richard	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+Time 34: Santa Richard	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+Time 34: Santa Richard	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 34: Santa Richard	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+Time 34: Santa Richard	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 34: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 37: Santa Richard	Walked back to his own allocated department
+Time 39: Santa Richard	Gives Toy Gift Tablet	wrapped in blue wrapping paper
+Time 40: Santa Richard	Gives Toy Gift Tablet	wrapped in silver wrapping paper
+Time 42: Santa Richard	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
+Time 44: Santa Richard	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
+Time 45: Santa Richard	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+Time 46: Santa Richard	Gives Toy Gift Guitar	wrapped in pink wrapping paper
+Time 48: Santa Richard	Gives Toy Gift PC	wrapped in red wrapping paper
+Time 49: Santa Richard	Gives Toy Gift Train	wrapped in blue wrapping paper
+Time 51: Santa Richard	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
+Time 53: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 54: Santa Richard	Walked back to the Toy Store!
+Time 54: Santa Richard	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+Time 54: Santa Richard	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+Time 54: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 54: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 54: Santa Richard	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 54: Santa Richard	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
+Time 54: Santa Richard	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+Time 54: Santa Richard	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
+Time 54: Santa Richard	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 54: Santa Richard	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 55: Santa Richard	Walked back to his own allocated department
+Time 56: Santa Richard	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+Time 58: Santa Richard	Gives Toy Gift Drone	wrapped in red wrapping paper
+Time 59: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+
+************** Hourly Report **************
+Santa Richard	Number of gifts given this hour: 29
+Santa Richard	Time Spent waiting duirng this hour: 0 minutes
+************************************************************************
+
+Time 61: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 63: Santa Richard	Gives Toy Gift Drone	wrapped in silver wrapping paper
+Time 64: Santa Richard	Gives Toy Gift Guitar	wrapped in blue wrapping paper
+Time 65: Santa Richard	Gives Toy Gift Guitar	wrapped in pink wrapping paper
+Time 67: Santa Richard	Gives Toy Gift Doll	wrapped in red wrapping paper
+Time 68: Santa Richard	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
+Time 69: Santa Richard	Gives Toy Gift Tablet	wrapped in red wrapping paper
+Time 70: Santa Richard	Walked back to the Toy Store!
+Time 70: Santa Richard	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 70: Santa Richard	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+Time 70: Santa Richard	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 70: Santa Richard	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+Time 70: Santa Richard	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
+Time 70: Santa Richard	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
+Time 70: Santa Richard	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+Time 70: Santa Richard	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
+Time 70: Santa Richard	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+Time 70: Santa Richard	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 71: Santa Richard	Walked back to his own allocated department
+Time 73: Santa Richard	Gives Toy Gift Drone	wrapped in pink wrapping paper
+Time 74: Santa Richard	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
+Time 76: Santa Richard	Gives Toy Gift Drone	wrapped in silver wrapping paper
+Time 77: Santa Richard	Gives Toy Gift Guitar	wrapped in red wrapping paper
+Time 78: Santa Richard	Gives Toy Gift Train	wrapped in pink wrapping paper
+Time 80: Santa Richard	Gives Toy Gift Tablet	wrapped in silver wrapping paper
+Time 82: Santa Richard	Gives Toy Gift Guitar	wrapped in red wrapping paper
+Time 83: Santa Richard	Gives Toy Gift Car	wrapped in blue wrapping paper
+Time 84: Santa Richard	Gives Toy Gift Car	wrapped in red wrapping paper
+Time 86: Santa Richard	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
+Time 86: Santa Richard	Walked back to the Toy Store!
+Time 86: Santa Richard	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+Time 86: Santa Richard	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
+Time 86: Santa Richard	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
+Time 86: Santa Richard	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+Time 86: Santa Richard	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
+Time 86: Santa Richard	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+Time 86: Santa Richard	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
+Time 86: Santa Richard	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 86: Santa Richard	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
+Time 86: Santa Richard	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
+Time 89: Santa Richard	Walked back to his own allocated department
+Time 91: Santa Richard	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+Time 92: Santa Richard	Gives Toy Gift Car	wrapped in silver wrapping paper
+Time 93: Santa Richard	Gives Toy Gift Barbie	wrapped in blue wrapping paper
+Time 95: Santa Richard	Gives Toy Gift Train	wrapped in red wrapping paper
+Time 96: Santa Richard	Gives Toy Gift Puzzle	wrapped in red wrapping paper
+Time 97: Santa Richard	Gives Toy Gift Drums	wrapped in blue wrapping paper
+Time 98: Santa Richard	Gives Toy Gift Drums	wrapped in pink wrapping paper
+Time 100: Santa Richard	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
+Time 101: Santa Richard	Gives Toy Gift Doll	wrapped in red wrapping paper
+Time 103: Santa Richard	Gives Toy Gift Tablet	wrapped in silver wrapping paper
+Time 103: Santa Richard	Walked back to the Toy Store!
+Time 103: Santa Richard	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 103: Santa Richard	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 103: Santa Richard	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+Time 103: Santa Richard	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+Time 103: Santa Richard	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+Time 103: Santa Richard	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+Time 103: Santa Richard	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+Time 103: Santa Richard	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+Time 103: Santa Richard	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+Time 103: Santa Richard	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+Time 105: Santa Richard	Walked back to his own allocated department
+Time 107: Santa Richard	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
+Time 109: Santa Richard	Gives Toy Gift Tablet	wrapped in red wrapping paper
+Time 110: Santa Richard	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
+Time 112: Santa Richard	Gives Toy Gift Guitar	wrapped in red wrapping paper
+Time 113: Santa Richard	Gives Toy Gift Train	wrapped in silver wrapping paper
+Time 115: Santa Richard	Gives Toy Gift Guitar	wrapped in silver wrapping paper
+Time 116: Santa Richard	Gives Toy Gift Guitar	wrapped in pink wrapping paper
+Time 118: Santa Richard	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
+Time 119: Santa Richard	Gives Toy Gift Drums	wrapped in blue wrapping paper
+
+************** Hourly Report **************
+Santa Richard	Number of gifts given this hour: 36
+Santa Richard	Time Spent waiting duirng this hour: 0 minutes
+************************************************************************
+
+Time 121: Santa Richard	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
+Time 121: Santa Richard	Walked back to the Toy Store!
+Time 121: Santa Richard	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 121: Santa Richard	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
+Time 121: Santa Richard	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+Time 121: Santa Richard	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+Time 121: Santa Richard	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+Time 121: Santa Richard	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 121: Santa Richard	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
+Time 121: Santa Richard	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+Time 121: Santa Richard	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
+Time 121: Santa Richard	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+Time 124: Santa Richard	Walked back to his own allocated department
+Time 125: Santa Richard	Gives Toy Gift PC	wrapped in red wrapping paper
+Time 127: Santa Richard	Gives Toy Gift Barbie	wrapped in blue wrapping paper
+Time 128: Santa Richard	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
+Time 129: Santa Richard	Gives Toy Gift Train	wrapped in silver wrapping paper
+Time 131: Santa Richard	Gives Toy Gift PC	wrapped in blue wrapping paper
+Time 132: Santa Richard	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
+Time 133: Santa Richard	Gives Toy Gift Train	wrapped in pink wrapping paper
+Time 134: Santa Richard	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
+Time 136: Santa Richard	Gives Toy Gift Tablet	wrapped in silver wrapping paper
+Time 137: Santa Richard	Gives Toy Gift PC	wrapped in blue wrapping paper
+Time 138: Santa Richard	Walked back to the Toy Store!
+Time 138: Santa Richard	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+Time 138: Santa Richard	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+Time 138: Santa Richard	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 138: Santa Richard	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
+Time 138: Santa Richard	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+Time 138: Santa Richard	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+Time 138: Santa Richard	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 138: Santa Richard	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
+Time 138: Santa Richard	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+Time 138: Santa Richard	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+Time 140: Santa Richard	Walked back to his own allocated department
+Time 141: Santa Richard	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
+Time 143: Santa Richard	Gives Toy Gift Train	wrapped in red wrapping paper
+Time 144: Santa Richard	Gives Toy Gift Tablet	wrapped in red wrapping paper
+Time 146: Santa Richard	Gives Toy Gift Doll	wrapped in blue wrapping paper
+Time 147: Santa Richard	Gives Toy Gift Drone	wrapped in red wrapping paper
+Time 149: Santa Richard	Gives Toy Gift Barbie	wrapped in red wrapping paper
+Time 150: Santa Richard	Gives Toy Gift Tablet	wrapped in red wrapping paper
+Time 151: Santa Richard	Gives Toy Gift Barbie	wrapped in silver wrapping paper
+Time 152: Santa Richard	Gives Toy Gift Guitar	wrapped in red wrapping paper
+Time 154: Santa Richard	Gives Toy Gift Car	wrapped in red wrapping paper
+Time 154: Santa Richard	Walked back to the Toy Store!
+Time 154: Santa Richard	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 154: Santa Richard	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+Time 154: Santa Richard	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+Time 154: Santa Richard	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+Time 154: Santa Richard	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
+Time 154: Santa Richard	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
+Time 154: Santa Richard	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+Time 154: Santa Richard	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 154: Santa Richard	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+Time 154: Santa Richard	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+Time 157: Santa Richard	Walked back to his own allocated department
+Time 158: Santa Richard	Gives Toy Gift Drone	wrapped in silver wrapping paper
+Time 159: Santa Richard	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
+Time 161: Santa Richard	Gives Toy Gift Guitar	wrapped in red wrapping paper
+Time 162: Santa Richard	Gives Toy Gift Train	wrapped in blue wrapping paper
+Time 163: Santa Richard	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
+Time 164: Santa Richard	Gives Toy Gift Barbie	wrapped in blue wrapping paper
+Time 166: Santa Richard	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
+Time 168: Santa Richard	Gives Toy Gift Drone	wrapped in pink wrapping paper
+Time 169: Santa Richard	Gives Toy Gift Tablet	wrapped in pink wrapping paper
+Time 170: Santa Richard	Gives Toy Gift Train	wrapped in blue wrapping paper
+Time 171: Santa Richard	Walked back to the Toy Store!
+Time 171: Santa Richard	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+Time 171: Santa Richard	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+Time 171: Santa Richard	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 171: Santa Richard	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
+Time 171: Santa Richard	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
+Time 171: Santa Richard	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+Time 171: Santa Richard	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+Time 171: Santa Richard	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+Time 171: Santa Richard	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
+Time 171: Santa Richard	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 173: Santa Richard	Walked back to his own allocated department
+Time 175: Santa Richard	Gives Toy Gift Train	wrapped in silver wrapping paper
+Time 176: Santa Richard	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
+Time 178: Santa Richard	Gives Toy Gift Doll	wrapped in silver wrapping paper
+Time 179: Santa Richard	Gives Toy Gift Car	wrapped in silver wrapping paper
+
+************** Hourly Report **************
+Santa Richard	Number of gifts given this hour: 35
+Santa Richard	Time Spent waiting duirng this hour: 0 minutes
+************************************************************************
+
+Time 181: Santa Richard	Gives Toy Gift PC	wrapped in silver wrapping paper
+Time 182: Santa Richard	Gives Toy Gift Train	wrapped in silver wrapping paper
+Time 183: Santa Richard	Gives Toy Gift Car	wrapped in red wrapping paper
+Time 185: Santa Richard	Gives Toy Gift Barbie	wrapped in red wrapping paper
+Time 186: Santa Richard	Gives Toy Gift Drums	wrapped in silver wrapping paper
+Time 188: Santa Richard	Gives Toy Gift PC	wrapped in red wrapping paper
+Time 188: Santa Richard	Walked back to the Toy Store!
+Time 188: Santa Richard	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+Time 188: Santa Richard	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 188: Santa Richard	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
+Time 188: Santa Richard	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
+Time 188: Santa Richard	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
+Time 188: Santa Richard	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 188: Santa Richard	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+Time 188: Santa Richard	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
+Time 188: Santa Richard	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 188: Santa Richard	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+Time 191: Santa Richard	Walked back to his own allocated department
+Time 193: Santa Richard	Gives Toy Gift Car	wrapped in pink wrapping paper
+Time 194: Santa Richard	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
+Time 196: Santa Richard	Gives Toy Gift Barbie	wrapped in blue wrapping paper
+Time 197: Santa Richard	Gives Toy Gift Drums	wrapped in silver wrapping paper
+Time 198: Santa Richard	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
+Time 200: Santa Richard	Gives Toy Gift Tablet	wrapped in red wrapping paper
+Time 202: Santa Richard	Gives Toy Gift Drone	wrapped in red wrapping paper
+Time 203: Santa Richard	Gives Toy Gift Tablet	wrapped in silver wrapping paper
+Time 205: Santa Richard	Gives Toy Gift Tablet	wrapped in red wrapping paper
+Time 207: Santa Richard	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
+Time 207: Santa Richard	Walked back to the Toy Store!
+Time 207: Santa Richard	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+Time 207: Santa Richard	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+Time 207: Santa Richard	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 207: Santa Richard	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
+Time 207: Santa Richard	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
+Time 207: Santa Richard	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+Time 207: Santa Richard	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+Time 207: Santa Richard	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 207: Santa Richard	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+Time 207: Santa Richard	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 210: Santa Richard	Walked back to his own allocated department
+Time 211: Santa Richard	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
+Time 213: Santa Richard	Gives Toy Gift PC	wrapped in blue wrapping paper
+Time 214: Santa Richard	Gives Toy Gift Tablet	wrapped in red wrapping paper
+Time 216: Santa Richard	Gives Toy Gift Barbie	wrapped in silver wrapping paper
+Time 217: Santa Richard	Gives Toy Gift Barbie	wrapped in silver wrapping paper
+Time 219: Santa Richard	Gives Toy Gift Tablet	wrapped in blue wrapping paper
+Time 220: Santa Richard	Gives Toy Gift PC	wrapped in blue wrapping paper
+Time 222: Santa Richard	Gives Toy Gift Doll	wrapped in silver wrapping paper
+Time 223: Santa Richard	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+Time 224: Santa Richard	Gives Toy Gift Drone	wrapped in pink wrapping paper
+Time 225: Santa Richard	Walked back to the Toy Store!
+Time 225: Santa Richard	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
+Time 225: Santa Richard	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 225: Santa Richard	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 225: Santa Richard	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 225: Santa Richard	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 225: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 225: Santa Richard	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+Time 225: Santa Richard	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+Time 225: Santa Richard	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+Time 225: Santa Richard	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
+Time 228: Santa Richard	Walked back to his own allocated department
+Time 229: Santa Richard	Gives Toy Gift Car	wrapped in silver wrapping paper
+Time 230: Santa Richard	Gives Toy Gift Drone	wrapped in pink wrapping paper
+Time 232: Santa Richard	Gives Toy Gift Drone	wrapped in silver wrapping paper
+Time 233: Santa Richard	Gives Toy Gift Drone	wrapped in pink wrapping paper
+Time 235: Santa Richard	Gives Toy Gift Doll	wrapped in silver wrapping paper
+Time 236: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 238: Santa Richard	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
+Time 240: Santa Richard	Gives Toy Gift Tablet	wrapped in blue wrapping paper
+
+************** Hourly Report **************
+Santa Richard	Number of gifts given this hour: 34
+Santa Richard	Time Spent waiting duirng this hour: 0 minutes
+************************************************************************
+
+Time 241: Santa Richard	Gives Toy Gift Tablet	wrapped in blue wrapping paper
+Time 242: Santa Richard	Gives Toy Gift Doll	wrapped in blue wrapping paper
+Time 243: Santa Richard	Walked back to the Toy Store!
+Time 243: Santa Richard	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+Time 243: Santa Richard	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+Time 243: Santa Richard	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 243: Santa Richard	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+Time 243: Santa Richard	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
+Time 243: Santa Richard	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
+Time 243: Santa Richard	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+Time 243: Santa Richard	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+Time 243: Santa Richard	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+Time 243: Santa Richard	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
+Time 245: Santa Richard	Walked back to his own allocated department
+Time 246: Santa Richard	Gives Toy Gift Train	wrapped in red wrapping paper
+Time 248: Santa Richard	Gives Toy Gift Car	wrapped in pink wrapping paper
+Time 250: Santa Richard	Gives Toy Gift Tablet	wrapped in red wrapping paper
+Time 251: Santa Richard	Gives Toy Gift Drums	wrapped in red wrapping paper
+Time 253: Santa Richard	Gives Toy Gift Tablet	wrapped in silver wrapping paper
+Time 254: Santa Richard	Gives Toy Gift Doll	wrapped in red wrapping paper
+Time 256: Santa Richard	Gives Toy Gift Tablet	wrapped in pink wrapping paper
+Time 258: Santa Richard	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
+Time 260: Santa Richard	Gives Toy Gift PC	wrapped in blue wrapping paper
+Time 261: Santa Richard	Gives Toy Gift Puzzle	wrapped in red wrapping paper
+Time 262: Santa Richard	Walked back to the Toy Store!
+Time 262: Santa Richard	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
+Time 262: Santa Richard	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 262: Santa Richard	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+Time 262: Santa Richard	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+Time 262: Santa Richard	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 262: Santa Richard	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
+Time 262: Santa Richard	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+Time 262: Santa Richard	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+Time 262: Santa Richard	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
+Time 262: Santa Richard	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 264: Santa Richard	Walked back to his own allocated department
+Time 266: Santa Richard	Gives Toy Gift Doll	wrapped in blue wrapping paper
+Time 267: Santa Richard	Gives Toy Gift Doll	wrapped in silver wrapping paper
+Time 268: Santa Richard	Gives Toy Gift Drums	wrapped in blue wrapping paper
+Time 270: Santa Richard	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+Time 271: Santa Richard	Gives Toy Gift Doll	wrapped in silver wrapping paper
+Time 273: Santa Richard	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
+Time 275: Santa Richard	Gives Toy Gift Drums	wrapped in red wrapping paper
+Time 276: Santa Richard	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
+Time 278: Santa Richard	Gives Toy Gift Puzzle	wrapped in red wrapping paper
+Time 279: Santa Richard	Gives Toy Gift Drone	wrapped in pink wrapping paper
+Time 280: Santa Richard	Walked back to the Toy Store!
+Time 280: Santa Richard	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 280: Santa Richard	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+Time 280: Santa Richard	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+Time 280: Santa Richard	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+Time 280: Santa Richard	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+Time 280: Santa Richard	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 280: Santa Richard	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 280: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 280: Santa Richard	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+Time 280: Santa Richard	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
+Time 283: Santa Richard	Walked back to his own allocated department
+Time 284: Santa Richard	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
+Time 286: Santa Richard	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
+Time 287: Santa Richard	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
+Time 288: Santa Richard	Gives Toy Gift PC	wrapped in blue wrapping paper
+Time 290: Santa Richard	Gives Toy Gift Train	wrapped in blue wrapping paper
+Time 292: Santa Richard	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
+Time 294: Santa Richard	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
+Time 295: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 297: Santa Richard	Gives Toy Gift Train	wrapped in blue wrapping paper
+Time 298: Santa Richard	Gives Toy Gift Barbie	wrapped in silver wrapping paper
+Time 298: Santa Richard	Walked back to the Toy Store!
+Time 298: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 298: Santa Richard	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+Time 298: Santa Richard	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 298: Santa Richard	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+Time 298: Santa Richard	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+Time 298: Santa Richard	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+Time 298: Santa Richard	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
+Time 298: Santa Richard	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 298: Santa Richard	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+Time 298: Santa Richard	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+
+************** Hourly Report **************
+Santa Richard	Number of gifts given this hour: 32
+Santa Richard	Time Spent waiting duirng this hour: 0 minutes
+************************************************************************
+
+Time 301: Santa Richard	Walked back to his own allocated department
+Time 302: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 304: Santa Richard	Gives Toy Gift Guitar	wrapped in silver wrapping paper
+Time 305: Santa Richard	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
+Time 307: Santa Richard	Gives Toy Gift Tablet	wrapped in pink wrapping paper
+Time 309: Santa Richard	Gives Toy Gift Guitar	wrapped in pink wrapping paper
+Time 310: Santa Richard	Gives Toy Gift Guitar	wrapped in pink wrapping paper
+Time 311: Santa Richard	Gives Toy Gift Drums	wrapped in pink wrapping paper
+Time 312: Santa Richard	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
+Time 314: Santa Richard	Gives Toy Gift Train	wrapped in blue wrapping paper
+Time 315: Santa Richard	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+Time 315: Santa Richard	Walked back to the Toy Store!
+Time 315: Santa Richard	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 315: Santa Richard	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+Time 315: Santa Richard	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+Time 315: Santa Richard	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
+Time 315: Santa Richard	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+Time 315: Santa Richard	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
+Time 315: Santa Richard	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 315: Santa Richard	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+Time 315: Santa Richard	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+Time 315: Santa Richard	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+Time 317: Santa Richard	Walked back to his own allocated department
+Time 319: Santa Richard	Gives Toy Gift Doll	wrapped in silver wrapping paper
+Time 321: Santa Richard	Gives Toy Gift Guitar	wrapped in silver wrapping paper
+Time 322: Santa Richard	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+Time 323: Santa Richard	Gives Toy Gift Guitar	wrapped in blue wrapping paper
+Time 324: Santa Richard	Gives Toy Gift Barbie	wrapped in red wrapping paper
+Time 325: Santa Richard	Gives Toy Gift Tablet	wrapped in silver wrapping paper
+Time 327: Santa Richard	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
+Time 329: Santa Richard	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
+Time 330: Santa Richard	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
+Time 332: Santa Richard	Gives Toy Gift Barbie	wrapped in red wrapping paper
+Time 332: Santa Richard	Walked back to the Toy Store!
+Time 332: Santa Richard	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
+Time 332: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 332: Santa Richard	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 332: Santa Richard	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+Time 332: Santa Richard	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+Time 332: Santa Richard	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
+Time 332: Santa Richard	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 332: Santa Richard	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 332: Santa Richard	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
+Time 332: Santa Richard	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+Time 334: Santa Richard	Walked back to his own allocated department
+Time 336: Santa Richard	Gives Toy Gift Barbie	wrapped in blue wrapping paper
+Time 337: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 339: Santa Richard	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
+Time 341: Santa Richard	Gives Toy Gift Doll	wrapped in pink wrapping paper
+Time 342: Santa Richard	Gives Toy Gift Car	wrapped in pink wrapping paper
+Time 344: Santa Richard	Gives Toy Gift Guitar	wrapped in blue wrapping paper
+Time 345: Santa Richard	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
+Time 347: Santa Richard	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
+Time 349: Santa Richard	Gives Toy Gift Car	wrapped in silver wrapping paper
+Time 351: Santa Richard	Gives Toy Gift Doll	wrapped in pink wrapping paper
+Time 351: Santa Richard	Walked back to the Toy Store!
+Time 351: Santa Richard	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+Time 351: Santa Richard	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
+Time 351: Santa Richard	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
+Time 351: Santa Richard	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
+Time 351: Santa Richard	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
+Time 351: Santa Richard	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 351: Santa Richard	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+Time 351: Santa Richard	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+Time 351: Santa Richard	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+Time 351: Santa Richard	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+Time 353: Santa Richard	Walked back to his own allocated department
+Time 354: Santa Richard	Gives Toy Gift Drums	wrapped in red wrapping paper
+Time 356: Santa Richard	Gives Toy Gift Drums	wrapped in pink wrapping paper
+Time 357: Santa Richard	Gives Toy Gift Doll	wrapped in red wrapping paper
+Time 358: Santa Richard	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
+Time 360: Santa Richard	Gives Toy Gift Barbie	wrapped in blue wrapping paper
+
+************** Hourly Report **************
+Santa Richard	Number of gifts given this hour: 35
+Santa Richard	Time Spent waiting duirng this hour: 0 minutes
+************************************************************************
+
+Time 361: Santa Richard	Gives Toy Gift Drone	wrapped in silver wrapping paper
+Time 363: Santa Richard	Gives Toy Gift PC	wrapped in blue wrapping paper
+Time 364: Santa Richard	Gives Toy Gift Train	wrapped in red wrapping paper
+Time 366: Santa Richard	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
+Time 368: Santa Richard	Gives Toy Gift Train	wrapped in blue wrapping paper
+Time 368: Santa Richard	Walked back to the Toy Store!
+Time 368: Santa Richard	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
+Time 368: Santa Richard	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+Time 368: Santa Richard	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+Time 368: Santa Richard	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+Time 368: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 368: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 368: Santa Richard	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 368: Santa Richard	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 368: Santa Richard	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+Time 368: Santa Richard	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+Time 370: Santa Richard	Walked back to his own allocated department
+Time 371: Santa Richard	Gives Toy Gift Train	wrapped in pink wrapping paper
+Time 373: Santa Richard	Gives Toy Gift Tablet	wrapped in blue wrapping paper
+Time 374: Santa Richard	Gives Toy Gift Train	wrapped in blue wrapping paper
+Time 376: Santa Richard	Gives Toy Gift Car	wrapped in pink wrapping paper
+Time 378: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 380: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 381: Santa Richard	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
+Time 382: Santa Richard	Gives Toy Gift Drone	wrapped in silver wrapping paper
+Time 384: Santa Richard	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
+Time 385: Santa Richard	Gives Toy Gift Drums	wrapped in red wrapping paper
+Time 386: Santa Richard	Walked back to the Toy Store!
+Time 386: Santa Richard	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+Time 386: Santa Richard	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 386: Santa Richard	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+Time 386: Santa Richard	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+Time 386: Santa Richard	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+Time 386: Santa Richard	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 386: Santa Richard	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+Time 386: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 386: Santa Richard	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
+Time 386: Santa Richard	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
+Time 388: Santa Richard	Walked back to his own allocated department
+Time 389: Santa Richard	Gives Toy Gift Car	wrapped in red wrapping paper
+Time 390: Santa Richard	Gives Toy Gift Drone	wrapped in silver wrapping paper
+Time 391: Santa Richard	Gives Toy Gift Car	wrapped in red wrapping paper
+Time 393: Santa Richard	Gives Toy Gift Doll	wrapped in pink wrapping paper
+Time 395: Santa Richard	Gives Toy Gift Barbie	wrapped in red wrapping paper
+Time 396: Santa Richard	Gives Toy Gift Doll	wrapped in silver wrapping paper
+Time 398: Santa Richard	Gives Toy Gift Guitar	wrapped in silver wrapping paper
+Time 400: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 401: Santa Richard	Gives Toy Gift Guitar	wrapped in blue wrapping paper
+Time 403: Santa Richard	Gives Toy Gift Car	wrapped in silver wrapping paper
+Time 404: Santa Richard	Walked back to the Toy Store!
+Time 404: Santa Richard	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 404: Santa Richard	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
+Time 404: Santa Richard	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 404: Santa Richard	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+Time 404: Santa Richard	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+Time 404: Santa Richard	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
+Time 404: Santa Richard	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+Time 404: Santa Richard	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+Time 404: Santa Richard	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+Time 404: Santa Richard	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+Time 406: Santa Richard	Walked back to his own allocated department
+Time 408: Santa Richard	Gives Toy Gift Doll	wrapped in silver wrapping paper
+Time 410: Santa Richard	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
+Time 411: Santa Richard	Gives Toy Gift Tablet	wrapped in red wrapping paper
+Time 413: Santa Richard	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
+Time 415: Santa Richard	Gives Toy Gift Car	wrapped in pink wrapping paper
+Time 416: Santa Richard	Gives Toy Gift Drums	wrapped in silver wrapping paper
+Time 418: Santa Richard	Gives Toy Gift Tablet	wrapped in pink wrapping paper
+Time 419: Santa Richard	Gives Toy Gift Train	wrapped in blue wrapping paper
+Time 420: Santa Richard	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
+
+************** Hourly Report **************
+Santa Richard	Number of gifts given this hour: 34
+Santa Richard	Time Spent waiting duirng this hour: 0 minutes
+************************************************************************
+
+Time 422: Santa Richard	Gives Toy Gift Doll	wrapped in pink wrapping paper
+Time 422: Santa Richard	Walked back to the Toy Store!
+Time 422: Santa Richard	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+Time 422: Santa Richard	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+Time 422: Santa Richard	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+Time 422: Santa Richard	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+Time 422: Santa Richard	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+Time 422: Santa Richard	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 422: Santa Richard	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+Time 422: Santa Richard	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
+Time 422: Santa Richard	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
+Time 422: Santa Richard	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+Time 425: Santa Richard	Walked back to his own allocated department
+Time 426: Santa Richard	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+Time 427: Santa Richard	Gives Toy Gift PC	wrapped in blue wrapping paper
+Time 428: Santa Richard	Gives Toy Gift Car	wrapped in red wrapping paper
+Time 430: Santa Richard	Gives Toy Gift Train	wrapped in red wrapping paper
+Time 431: Santa Richard	Gives Toy Gift Guitar	wrapped in red wrapping paper
+Time 433: Santa Richard	Gives Toy Gift PC	wrapped in red wrapping paper
+Time 435: Santa Richard	Gives Toy Gift Tablet	wrapped in pink wrapping paper
+Time 436: Santa Richard	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
+Time 438: Santa Richard	Gives Toy Gift Guitar	wrapped in blue wrapping paper
+Time 439: Santa Richard	Gives Toy Gift Guitar	wrapped in silver wrapping paper
+Time 440: Santa Richard	Walked back to the Toy Store!
+Time 440: Santa Richard	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+Time 440: Santa Richard	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
+Time 440: Santa Richard	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
+Time 440: Santa Richard	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+Time 440: Santa Richard	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+Time 440: Santa Richard	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
+Time 440: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 440: Santa Richard	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+Time 440: Santa Richard	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+Time 440: Santa Richard	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 442: Santa Richard	Walked back to his own allocated department
+Time 443: Santa Richard	Gives Toy Gift Train	wrapped in red wrapping paper
+Time 445: Santa Richard	Gives Toy Gift Car	wrapped in blue wrapping paper
+Time 446: Santa Richard	Gives Toy Gift Drums	wrapped in silver wrapping paper
+Time 447: Santa Richard	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
+Time 449: Santa Richard	Gives Toy Gift Doll	wrapped in pink wrapping paper
+Time 451: Santa Richard	Gives Toy Gift Doll	wrapped in red wrapping paper
+Time 452: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 454: Santa Richard	Gives Toy Gift Train	wrapped in silver wrapping paper
+Time 455: Santa Richard	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+Time 457: Santa Richard	Gives Toy Gift PC	wrapped in pink wrapping paper
+Time 458: Santa Richard	Walked back to the Toy Store!
+Time 458: Santa Richard	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+Time 458: Santa Richard	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+Time 458: Santa Richard	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 458: Santa Richard	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
+Time 458: Santa Richard	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
+Time 458: Santa Richard	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+Time 458: Santa Richard	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+Time 458: Santa Richard	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+Time 458: Santa Richard	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+Time 458: Santa Richard	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 460: Santa Richard	Walked back to his own allocated department
+Time 461: Santa Richard	Gives Toy Gift Drone	wrapped in red wrapping paper
+Time 463: Santa Richard	Gives Toy Gift PC	wrapped in blue wrapping paper
+Time 464: Santa Richard	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
+Time 466: Santa Richard	Gives Toy Gift Doll	wrapped in red wrapping paper
+Time 467: Santa Richard	Gives Toy Gift Car	wrapped in blue wrapping paper
+Time 469: Santa Richard	Gives Toy Gift Doll	wrapped in pink wrapping paper
+Time 471: Santa Richard	Gives Toy Gift Doll	wrapped in pink wrapping paper
+Time 472: Santa Richard	Gives Toy Gift Tablet	wrapped in blue wrapping paper
+Time 474: Santa Richard	Gives Toy Gift Train	wrapped in silver wrapping paper
+Time 476: Santa Richard	Gives Toy Gift Tablet	wrapped in red wrapping paper
+Time 476: Santa Richard	Walked back to the Toy Store!
+Time 476: Santa Richard	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+Time 476: Santa Richard	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
+Time 476: Santa Richard	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 476: Santa Richard	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+Time 476: Santa Richard	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
+Time 476: Santa Richard	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+Time 476: Santa Richard	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+Time 476: Santa Richard	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+Time 476: Santa Richard	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+Time 476: Santa Richard	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
+Time 477: Santa Richard	Walked back to his own allocated department
+Time 479: Santa Richard	Gives Toy Gift Drone	wrapped in red wrapping paper
+Time 480: Santa Richard	Gives Toy Gift Drums	wrapped in pink wrapping paper
+Time 480: Santa Richard	Walked back to the Toy Store!
+
+************** Hourly Report **************
+Santa Richard	Number of gifts given this hour: 33
+Santa Richard	Time Spent waiting duirng this hour: 0 minutes
+************************************************************************
+
