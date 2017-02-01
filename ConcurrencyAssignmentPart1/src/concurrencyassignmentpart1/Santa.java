@@ -16,17 +16,12 @@ public class Santa extends Thread {
     String santa_id;
 
     List<Present> sack;
-
-    private final int rand = 1000;
+    
     private final int Sack_Capacity = 10;
 
     int toyCount = 0;
     
     int ticksWaiting = 0;
-    int reports = 0;
-
-    int hTicks = 0;
-    int hCount = 0;
 
     PrintWriter writer;
     
@@ -59,62 +54,32 @@ public class Santa extends Thread {
     public void run() {
         
         while (!clock.isStopped()) {
-        
-            report();
             
-            while(sack.size() < Sack_Capacity ) {
-                
+            while(sack.size() < Sack_Capacity) {
                 synchronized(buf){ 
                     int startTime = clock.getTick();
                     while(buf.isEmpty() && clock.getState() != Thread.State.TERMINATED){
 
                         try{
-                            System.out.println(santa_id + " is" + "waiting....");
+                            System.out.println(santa_id + " is" + " Waiting....");
                             buf.wait();
                         } catch (InterruptedException ex){}
                     }
                     int endTime = clock.getTick();
                     ticksWaiting += endTime - startTime;
+                    Present s = consume();
+                    writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Took toy " + s + " from sleigh.");
+                    writer.println();
+                    sack.add(s);
+                    buf.notifyAll();
+                }
 //                    if(buf.getCounter() >= 6){
-                        Present s = consume();
-                        writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Took toy " + s + " from sleigh.");
-                        sack.add(s);
+//                        break;
 //                    }
-                    buf.notify();
-                }
-                
-                if(sack.size() >= 6 && buf.isEmpty()){      
-                    break;
-                }
-            }
-
-//            while(sack.size() < Sack_Capacity){
-//                
-//                 boolean isEmpty = buf.isEmpty();
-//                int diff = 0;
-//            
-//                if (isEmpty) {
-//                
-//                    diff = clock.getTick();
-//                }
-//
-//                Present s = consume();
-//
-//                if (isEmpty) {
-//                    
-//                    diff = (clock.getTick() - diff);
-//                    ticksWaiting += diff;
-//                    hTicks += diff;
-//                }
-//                
-//                 writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Took toy " + s + " from sleigh.");
-//                 sack.add(s);
-//                    
-//                if(sack.size() >= 6 && buf.isEmpty()){
-//                   
+//                    if(sack.size() >= 6 && buf.isEmpty()){      
 //                    break;
-//                }
-//            }
+//                    }
+            }
             
             /**
              * Santa need some time to Walk back
@@ -122,11 +87,8 @@ public class Santa extends Thread {
              */
             try {
                 
-//                sleep((int) (Math.random() * rand));
                sleep(ThreadLocalRandom.current().nextInt(1000, 3000));     
             } catch (InterruptedException ex) {}
-            
-            report();
 
             writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Walked back to his own allocated department");
       
@@ -139,19 +101,16 @@ public class Santa extends Thread {
                  */
                 try { 
                 
-//                    sleep((int) (Math.random() * rand));
-                    sleep(ThreadLocalRandom.current().nextInt(1000, 2000)); 
+                    sleep(ThreadLocalRandom.current().nextInt(1000, 3000)); 
                 } catch (InterruptedException ex) {}
-
-                report();
 
                 Present g = i.next();
 
                 writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Gives Toy " + g);
+                writer.println();
                 
                 i.remove();
                 toyCount++;
-                hCount++;
             }
             
              /**
@@ -160,44 +119,17 @@ public class Santa extends Thread {
              */
             try {
                 
-                sleep((int) (Math.random() * rand));
+                sleep(ThreadLocalRandom.current().nextInt(1000, 3000));
             } catch (InterruptedException ex) {}
-            
-            report();
 
             writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Walked back to the Toy Store!");
         }
-        writeSantaReport();
-        writer.close();
+       writer.close();
     }
-
-    public void report() {
-        if (clock.getTick() > 60 * (reports + 1)) {
-
-            writeSantaReport();
-
-            /**
-             * hourly ticks and count is reseted 
-             * for the next hour
-             */
-            hTicks = 0;
-            hCount = 0;
-            reports++;
-        }
-    }
-
+    
     public void output() {
         System.out.println("Santa " + santa_id + "\t" + "Number of gifts gave: " + toyCount);
         System.out.println("Santa " + santa_id + "\t" + "Time Spent waiting: " + ticksWaiting + " minutes");
         System.out.println("Santa " + santa_id + "\t" + "Toys left in bag: " + sack.size() + "\n");
-    }
-
-    public void writeSantaReport() {
-        writer.println();
-        writer.println("************** Hourly Report **************");
-        writer.println("Santa " + santa_id + "\t" + "Number of gifts given this hour: " + hCount);
-        writer.println("Santa " + santa_id + "\t" + "Time Spent waiting duirng this hour: " + hTicks + " minutes");
-        writer.println("************************************************************************");
-        writer.println();
     }
 }

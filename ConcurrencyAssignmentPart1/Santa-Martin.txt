@@ -1,646 +1,84 @@
-Time 1: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 2: Santa Martin	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
-Time 2: Santa Martin	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
-Time 2: Santa Martin	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
-Time 2: Santa Martin	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
-Time 4: Santa Martin	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
-Time 6: Santa Martin	Walked back to his own allocated department
-Time 8: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 9: Santa Martin	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
-Time 11: Santa Martin	Gives Toy Gift Train	wrapped in silver wrapping paper
-Time 12: Santa Martin	Gives Toy Gift Puzzle	wrapped in red wrapping paper
-Time 14: Santa Martin	Gives Toy Gift Train	wrapped in pink wrapping paper
-Time 15: Santa Martin	Gives Toy Gift Drone	wrapped in pink wrapping paper
-Time 16: Santa Martin	Walked back to the Toy Store!
-Time 16: Santa Martin	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
-Time 16: Santa Martin	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
-Time 16: Santa Martin	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
-Time 16: Santa Martin	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
-Time 16: Santa Martin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
-Time 16: Santa Martin	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
-Time 16: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 16: Santa Martin	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
-Time 16: Santa Martin	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
-Time 16: Santa Martin	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
-Time 18: Santa Martin	Walked back to his own allocated department
-Time 20: Santa Martin	Gives Toy Gift Train	wrapped in pink wrapping paper
-Time 21: Santa Martin	Gives Toy Gift Barbie	wrapped in pink wrapping paper
-Time 23: Santa Martin	Gives Toy Gift Barbie	wrapped in pink wrapping paper
-Time 24: Santa Martin	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
-Time 26: Santa Martin	Gives Toy Gift Drone	wrapped in blue wrapping paper
-Time 28: Santa Martin	Gives Toy Gift Train	wrapped in pink wrapping paper
-Time 29: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 31: Santa Martin	Gives Toy Gift Train	wrapped in red wrapping paper
-Time 32: Santa Martin	Gives Toy Gift Train	wrapped in silver wrapping paper
-Time 34: Santa Martin	Gives Toy Gift Train	wrapped in silver wrapping paper
-Time 34: Santa Martin	Walked back to the Toy Store!
-Time 34: Santa Martin	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
-Time 34: Santa Martin	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
-Time 34: Santa Martin	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
-Time 34: Santa Martin	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
-Time 34: Santa Martin	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
-Time 34: Santa Martin	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
-Time 34: Santa Martin	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
-Time 34: Santa Martin	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
-Time 34: Santa Martin	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
-Time 34: Santa Martin	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
-Time 36: Santa Martin	Walked back to his own allocated department
-Time 38: Santa Martin	Gives Toy Gift PC	wrapped in red wrapping paper
-Time 39: Santa Martin	Gives Toy Gift Tablet	wrapped in silver wrapping paper
-Time 41: Santa Martin	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
-Time 42: Santa Martin	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
-Time 43: Santa Martin	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
-Time 45: Santa Martin	Gives Toy Gift Train	wrapped in silver wrapping paper
-Time 47: Santa Martin	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
-Time 49: Santa Martin	Gives Toy Gift PC	wrapped in pink wrapping paper
-Time 50: Santa Martin	Gives Toy Gift Drums	wrapped in pink wrapping paper
-Time 52: Santa Martin	Gives Toy Gift Guitar	wrapped in blue wrapping paper
-Time 53: Santa Martin	Walked back to the Toy Store!
-Time 53: Santa Martin	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
-Time 53: Santa Martin	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
-Time 53: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 53: Santa Martin	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
-Time 53: Santa Martin	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
-Time 53: Santa Martin	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
-Time 53: Santa Martin	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
-Time 53: Santa Martin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
-Time 53: Santa Martin	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
-Time 53: Santa Martin	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 4: Santa Martin	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+
+Time 8: Santa Martin	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+
+Time 13: Santa Martin	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+
+Time 19: Santa Martin	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+
+Time 22: Santa Martin	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+
+Time 27: Santa Martin	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+
+Time 30: Santa Martin	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+
+Time 33: Santa Martin	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+
+Time 36: Santa Martin	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+
+Time 43: Santa Martin	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+
 Time 54: Santa Martin	Walked back to his own allocated department
-Time 56: Santa Martin	Gives Toy Gift Barbie	wrapped in silver wrapping paper
-Time 57: Santa Martin	Gives Toy Gift Drums	wrapped in pink wrapping paper
-Time 59: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 60: Santa Martin	Gives Toy Gift Train	wrapped in silver wrapping paper
+Time 71: Santa Martin	Gives Toy Gift Doll	wrapped in pink wrapping paper
 
-************** Hourly Report **************
-Santa Martin	Number of gifts given this hour: 30
-Santa Martin	Time Spent waiting duirng this hour: 0 minutes
-************************************************************************
+Time 86: Santa Martin	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
 
-Time 62: Santa Martin	Gives Toy Gift PC	wrapped in pink wrapping paper
-Time 63: Santa Martin	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
-Time 65: Santa Martin	Gives Toy Gift Drums	wrapped in pink wrapping paper
-Time 66: Santa Martin	Gives Toy Gift Drone	wrapped in blue wrapping paper
-Time 67: Santa Martin	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
-Time 69: Santa Martin	Gives Toy Gift PC	wrapped in pink wrapping paper
-Time 70: Santa Martin	Walked back to the Toy Store!
-Time 70: Santa Martin	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
-Time 70: Santa Martin	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
-Time 70: Santa Martin	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
-Time 70: Santa Martin	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
-Time 70: Santa Martin	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
-Time 70: Santa Martin	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
-Time 70: Santa Martin	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
-Time 70: Santa Martin	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
-Time 70: Santa Martin	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
-Time 70: Santa Martin	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
-Time 72: Santa Martin	Walked back to his own allocated department
-Time 73: Santa Martin	Gives Toy Gift Drums	wrapped in blue wrapping paper
-Time 74: Santa Martin	Gives Toy Gift Drone	wrapped in pink wrapping paper
-Time 76: Santa Martin	Gives Toy Gift Drone	wrapped in pink wrapping paper
-Time 78: Santa Martin	Gives Toy Gift Drone	wrapped in pink wrapping paper
-Time 80: Santa Martin	Gives Toy Gift Drums	wrapped in silver wrapping paper
-Time 81: Santa Martin	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
-Time 83: Santa Martin	Gives Toy Gift Car	wrapped in pink wrapping paper
-Time 84: Santa Martin	Gives Toy Gift PC	wrapped in silver wrapping paper
-Time 85: Santa Martin	Gives Toy Gift Drums	wrapped in pink wrapping paper
-Time 87: Santa Martin	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
-Time 87: Santa Martin	Walked back to the Toy Store!
-Time 87: Santa Martin	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
-Time 87: Santa Martin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
-Time 87: Santa Martin	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
-Time 87: Santa Martin	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
-Time 87: Santa Martin	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
-Time 87: Santa Martin	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
-Time 87: Santa Martin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
-Time 87: Santa Martin	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
-Time 87: Santa Martin	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
-Time 87: Santa Martin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
-Time 88: Santa Martin	Walked back to his own allocated department
-Time 89: Santa Martin	Gives Toy Gift Drums	wrapped in blue wrapping paper
-Time 91: Santa Martin	Gives Toy Gift Doll	wrapped in silver wrapping paper
-Time 93: Santa Martin	Gives Toy Gift Tablet	wrapped in pink wrapping paper
-Time 94: Santa Martin	Gives Toy Gift Doll	wrapped in blue wrapping paper
-Time 96: Santa Martin	Gives Toy Gift Tablet	wrapped in pink wrapping paper
-Time 98: Santa Martin	Gives Toy Gift Guitar	wrapped in blue wrapping paper
-Time 99: Santa Martin	Gives Toy Gift Doll	wrapped in silver wrapping paper
-Time 101: Santa Martin	Gives Toy Gift Guitar	wrapped in blue wrapping paper
-Time 102: Santa Martin	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
-Time 104: Santa Martin	Gives Toy Gift Drone	wrapped in blue wrapping paper
-Time 104: Santa Martin	Walked back to the Toy Store!
-Time 104: Santa Martin	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
-Time 104: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 104: Santa Martin	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
-Time 104: Santa Martin	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
-Time 104: Santa Martin	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
-Time 104: Santa Martin	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
-Time 104: Santa Martin	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
-Time 104: Santa Martin	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
-Time 104: Santa Martin	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
-Time 104: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 107: Santa Martin	Walked back to his own allocated department
-Time 108: Santa Martin	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
-Time 110: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 111: Santa Martin	Gives Toy Gift Barbie	wrapped in blue wrapping paper
-Time 113: Santa Martin	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
-Time 114: Santa Martin	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
-Time 115: Santa Martin	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
-Time 117: Santa Martin	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
-Time 119: Santa Martin	Gives Toy Gift Train	wrapped in blue wrapping paper
-Time 120: Santa Martin	Gives Toy Gift Doll	wrapped in red wrapping paper
+Time 96: Santa Martin	Gives Toy Gift Train	wrapped in blue wrapping paper
 
-************** Hourly Report **************
-Santa Martin	Number of gifts given this hour: 35
-Santa Martin	Time Spent waiting duirng this hour: 0 minutes
-************************************************************************
+Time 121: Santa Martin	Gives Toy Gift PC	wrapped in red wrapping paper
 
-Time 122: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 123: Santa Martin	Walked back to the Toy Store!
-Time 123: Santa Martin	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
-Time 123: Santa Martin	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
-Time 123: Santa Martin	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
-Time 123: Santa Martin	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
-Time 123: Santa Martin	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
-Time 123: Santa Martin	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
-Time 123: Santa Martin	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
-Time 123: Santa Martin	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
-Time 123: Santa Martin	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
-Time 123: Santa Martin	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
-Time 125: Santa Martin	Walked back to his own allocated department
-Time 127: Santa Martin	Gives Toy Gift Drums	wrapped in pink wrapping paper
-Time 129: Santa Martin	Gives Toy Gift PC	wrapped in silver wrapping paper
-Time 130: Santa Martin	Gives Toy Gift Guitar	wrapped in red wrapping paper
-Time 131: Santa Martin	Gives Toy Gift Drums	wrapped in silver wrapping paper
-Time 133: Santa Martin	Gives Toy Gift Barbie	wrapped in blue wrapping paper
-Time 134: Santa Martin	Gives Toy Gift Car	wrapped in pink wrapping paper
-Time 135: Santa Martin	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
-Time 137: Santa Martin	Gives Toy Gift Drums	wrapped in red wrapping paper
-Time 138: Santa Martin	Gives Toy Gift Guitar	wrapped in red wrapping paper
-Time 139: Santa Martin	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
-Time 140: Santa Martin	Walked back to the Toy Store!
-Time 140: Santa Martin	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
-Time 140: Santa Martin	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
-Time 140: Santa Martin	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
-Time 140: Santa Martin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
-Time 140: Santa Martin	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
-Time 140: Santa Martin	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
-Time 140: Santa Martin	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
-Time 140: Santa Martin	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
-Time 140: Santa Martin	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
-Time 140: Santa Martin	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
-Time 142: Santa Martin	Walked back to his own allocated department
-Time 144: Santa Martin	Gives Toy Gift Guitar	wrapped in pink wrapping paper
-Time 145: Santa Martin	Gives Toy Gift Train	wrapped in blue wrapping paper
-Time 146: Santa Martin	Gives Toy Gift Car	wrapped in red wrapping paper
-Time 148: Santa Martin	Gives Toy Gift Drone	wrapped in blue wrapping paper
-Time 149: Santa Martin	Gives Toy Gift Barbie	wrapped in pink wrapping paper
-Time 150: Santa Martin	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
-Time 152: Santa Martin	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
-Time 154: Santa Martin	Gives Toy Gift Guitar	wrapped in pink wrapping paper
-Time 155: Santa Martin	Gives Toy Gift Guitar	wrapped in red wrapping paper
-Time 156: Santa Martin	Gives Toy Gift Doll	wrapped in pink wrapping paper
-Time 157: Santa Martin	Walked back to the Toy Store!
-Time 157: Santa Martin	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
-Time 157: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 157: Santa Martin	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
-Time 157: Santa Martin	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
-Time 157: Santa Martin	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
-Time 157: Santa Martin	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
-Time 157: Santa Martin	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
-Time 157: Santa Martin	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
-Time 157: Santa Martin	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
-Time 157: Santa Martin	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
-Time 160: Santa Martin	Walked back to his own allocated department
-Time 161: Santa Martin	Gives Toy Gift Tablet	wrapped in pink wrapping paper
-Time 162: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 163: Santa Martin	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
-Time 164: Santa Martin	Gives Toy Gift Drums	wrapped in red wrapping paper
-Time 165: Santa Martin	Gives Toy Gift Train	wrapped in red wrapping paper
-Time 167: Santa Martin	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
-Time 168: Santa Martin	Gives Toy Gift Car	wrapped in pink wrapping paper
-Time 169: Santa Martin	Gives Toy Gift Doll	wrapped in pink wrapping paper
-Time 171: Santa Martin	Gives Toy Gift Guitar	wrapped in blue wrapping paper
-Time 172: Santa Martin	Gives Toy Gift Tablet	wrapped in red wrapping paper
-Time 172: Santa Martin	Walked back to the Toy Store!
-Time 172: Santa Martin	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
-Time 172: Santa Martin	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
-Time 172: Santa Martin	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
-Time 172: Santa Martin	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
-Time 172: Santa Martin	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
-Time 172: Santa Martin	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
-Time 172: Santa Martin	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
-Time 172: Santa Martin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
-Time 172: Santa Martin	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
-Time 172: Santa Martin	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
-Time 173: Santa Martin	Walked back to his own allocated department
-Time 175: Santa Martin	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
-Time 177: Santa Martin	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
-Time 178: Santa Martin	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
-Time 180: Santa Martin	Gives Toy Gift Drums	wrapped in red wrapping paper
+Time 136: Santa Martin	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
 
-************** Hourly Report **************
-Santa Martin	Number of gifts given this hour: 35
-Santa Martin	Time Spent waiting duirng this hour: 0 minutes
-************************************************************************
+Time 163: Santa Martin	Gives Toy Gift Barbie	wrapped in red wrapping paper
 
-Time 182: Santa Martin	Gives Toy Gift Drums	wrapped in pink wrapping paper
-Time 183: Santa Martin	Gives Toy Gift Puzzle	wrapped in red wrapping paper
-Time 185: Santa Martin	Gives Toy Gift Tablet	wrapped in pink wrapping paper
-Time 186: Santa Martin	Gives Toy Gift Doll	wrapped in silver wrapping paper
-Time 188: Santa Martin	Gives Toy Gift Puzzle	wrapped in red wrapping paper
-Time 190: Santa Martin	Gives Toy Gift Tablet	wrapped in blue wrapping paper
-Time 191: Santa Martin	Walked back to the Toy Store!
-Time 191: Santa Martin	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
-Time 191: Santa Martin	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
-Time 191: Santa Martin	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
-Time 191: Santa Martin	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
-Time 191: Santa Martin	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
-Time 191: Santa Martin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
-Time 191: Santa Martin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
-Time 191: Santa Martin	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
-Time 191: Santa Martin	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
-Time 191: Santa Martin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
-Time 193: Santa Martin	Walked back to his own allocated department
-Time 194: Santa Martin	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
-Time 196: Santa Martin	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
-Time 197: Santa Martin	Gives Toy Gift Barbie	wrapped in silver wrapping paper
-Time 199: Santa Martin	Gives Toy Gift Tablet	wrapped in silver wrapping paper
-Time 200: Santa Martin	Gives Toy Gift Drone	wrapped in red wrapping paper
-Time 202: Santa Martin	Gives Toy Gift Doll	wrapped in silver wrapping paper
-Time 203: Santa Martin	Gives Toy Gift Doll	wrapped in silver wrapping paper
-Time 205: Santa Martin	Gives Toy Gift Tablet	wrapped in pink wrapping paper
-Time 206: Santa Martin	Gives Toy Gift PC	wrapped in silver wrapping paper
-Time 208: Santa Martin	Gives Toy Gift Drone	wrapped in blue wrapping paper
-Time 208: Santa Martin	Walked back to the Toy Store!
-Time 208: Santa Martin	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
-Time 208: Santa Martin	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
-Time 208: Santa Martin	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
-Time 208: Santa Martin	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
-Time 208: Santa Martin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
-Time 208: Santa Martin	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
-Time 208: Santa Martin	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
-Time 208: Santa Martin	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
-Time 208: Santa Martin	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
-Time 208: Santa Martin	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
-Time 210: Santa Martin	Walked back to his own allocated department
-Time 211: Santa Martin	Gives Toy Gift Drums	wrapped in red wrapping paper
-Time 213: Santa Martin	Gives Toy Gift PC	wrapped in red wrapping paper
-Time 214: Santa Martin	Gives Toy Gift Barbie	wrapped in red wrapping paper
-Time 216: Santa Martin	Gives Toy Gift Tablet	wrapped in silver wrapping paper
-Time 217: Santa Martin	Gives Toy Gift Drone	wrapped in blue wrapping paper
-Time 219: Santa Martin	Gives Toy Gift Guitar	wrapped in red wrapping paper
-Time 220: Santa Martin	Gives Toy Gift Train	wrapped in red wrapping paper
-Time 222: Santa Martin	Gives Toy Gift Drums	wrapped in silver wrapping paper
-Time 223: Santa Martin	Gives Toy Gift Drums	wrapped in blue wrapping paper
-Time 225: Santa Martin	Gives Toy Gift Drums	wrapped in blue wrapping paper
-Time 226: Santa Martin	Walked back to the Toy Store!
-Time 226: Santa Martin	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
-Time 226: Santa Martin	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
-Time 226: Santa Martin	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
-Time 226: Santa Martin	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
-Time 226: Santa Martin	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
-Time 226: Santa Martin	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
-Time 226: Santa Martin	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
-Time 226: Santa Martin	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
-Time 226: Santa Martin	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
-Time 226: Santa Martin	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
-Time 228: Santa Martin	Walked back to his own allocated department
-Time 229: Santa Martin	Gives Toy Gift Doll	wrapped in pink wrapping paper
-Time 231: Santa Martin	Gives Toy Gift Guitar	wrapped in red wrapping paper
-Time 233: Santa Martin	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
-Time 234: Santa Martin	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
-Time 235: Santa Martin	Gives Toy Gift Puzzle	wrapped in red wrapping paper
-Time 237: Santa Martin	Gives Toy Gift Guitar	wrapped in silver wrapping paper
-Time 239: Santa Martin	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
-Time 240: Santa Martin	Gives Toy Gift Barbie	wrapped in silver wrapping paper
+Time 182: Santa Martin	Gives Toy Gift Car	wrapped in red wrapping paper
 
-************** Hourly Report **************
-Santa Martin	Number of gifts given this hour: 34
-Santa Martin	Time Spent waiting duirng this hour: 0 minutes
-************************************************************************
+Time 206: Santa Martin	Gives Toy Gift Barbie	wrapped in pink wrapping paper
 
-Time 241: Santa Martin	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
-Time 243: Santa Martin	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
-Time 244: Santa Martin	Walked back to the Toy Store!
-Time 244: Santa Martin	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
-Time 244: Santa Martin	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
-Time 244: Santa Martin	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
-Time 244: Santa Martin	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
-Time 244: Santa Martin	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
-Time 244: Santa Martin	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
-Time 244: Santa Martin	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
-Time 244: Santa Martin	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
-Time 244: Santa Martin	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
-Time 244: Santa Martin	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
-Time 246: Santa Martin	Walked back to his own allocated department
-Time 247: Santa Martin	Gives Toy Gift Tablet	wrapped in red wrapping paper
-Time 249: Santa Martin	Gives Toy Gift Car	wrapped in silver wrapping paper
-Time 250: Santa Martin	Gives Toy Gift Drone	wrapped in pink wrapping paper
-Time 251: Santa Martin	Gives Toy Gift Drone	wrapped in red wrapping paper
-Time 252: Santa Martin	Gives Toy Gift PC	wrapped in silver wrapping paper
-Time 253: Santa Martin	Gives Toy Gift Drone	wrapped in silver wrapping paper
-Time 255: Santa Martin	Gives Toy Gift Tablet	wrapped in pink wrapping paper
-Time 257: Santa Martin	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
-Time 259: Santa Martin	Gives Toy Gift PC	wrapped in silver wrapping paper
-Time 260: Santa Martin	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
-Time 261: Santa Martin	Walked back to the Toy Store!
-Time 261: Santa Martin	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
-Time 261: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 261: Santa Martin	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
-Time 261: Santa Martin	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
-Time 261: Santa Martin	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
-Time 261: Santa Martin	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
-Time 261: Santa Martin	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
-Time 261: Santa Martin	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
-Time 261: Santa Martin	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
-Time 261: Santa Martin	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
-Time 262: Santa Martin	Walked back to his own allocated department
-Time 263: Santa Martin	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
-Time 265: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 266: Santa Martin	Gives Toy Gift PC	wrapped in pink wrapping paper
-Time 267: Santa Martin	Gives Toy Gift Barbie	wrapped in silver wrapping paper
-Time 269: Santa Martin	Gives Toy Gift Drums	wrapped in blue wrapping paper
-Time 271: Santa Martin	Gives Toy Gift Drums	wrapped in blue wrapping paper
-Time 272: Santa Martin	Gives Toy Gift Car	wrapped in silver wrapping paper
-Time 274: Santa Martin	Gives Toy Gift Train	wrapped in pink wrapping paper
-Time 275: Santa Martin	Gives Toy Gift Car	wrapped in pink wrapping paper
-Time 277: Santa Martin	Gives Toy Gift Barbie	wrapped in red wrapping paper
-Time 277: Santa Martin	Walked back to the Toy Store!
-Time 277: Santa Martin	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
-Time 277: Santa Martin	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
-Time 277: Santa Martin	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
-Time 277: Santa Martin	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
-Time 277: Santa Martin	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
-Time 277: Santa Martin	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
-Time 277: Santa Martin	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
-Time 277: Santa Martin	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
-Time 277: Santa Martin	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
-Time 277: Santa Martin	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
-Time 279: Santa Martin	Walked back to his own allocated department
-Time 281: Santa Martin	Gives Toy Gift Guitar	wrapped in pink wrapping paper
-Time 283: Santa Martin	Gives Toy Gift Guitar	wrapped in blue wrapping paper
-Time 284: Santa Martin	Gives Toy Gift Drone	wrapped in red wrapping paper
-Time 286: Santa Martin	Gives Toy Gift Doll	wrapped in blue wrapping paper
-Time 288: Santa Martin	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
-Time 290: Santa Martin	Gives Toy Gift Train	wrapped in pink wrapping paper
-Time 291: Santa Martin	Gives Toy Gift Tablet	wrapped in silver wrapping paper
-Time 292: Santa Martin	Gives Toy Gift Puzzle	wrapped in red wrapping paper
-Time 294: Santa Martin	Gives Toy Gift Drone	wrapped in silver wrapping paper
-Time 296: Santa Martin	Gives Toy Gift Doll	wrapped in blue wrapping paper
-Time 296: Santa Martin	Walked back to the Toy Store!
-Time 296: Santa Martin	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
-Time 296: Santa Martin	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
-Time 296: Santa Martin	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
-Time 296: Santa Martin	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
-Time 296: Santa Martin	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
-Time 296: Santa Martin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
-Time 296: Santa Martin	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
-Time 296: Santa Martin	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
-Time 296: Santa Martin	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
-Time 296: Santa Martin	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
-Time 298: Santa Martin	Walked back to his own allocated department
-Time 299: Santa Martin	Gives Toy Gift Puzzle	wrapped in red wrapping paper
+Time 227: Santa Martin	Gives Toy Gift Doll	wrapped in pink wrapping paper
 
-************** Hourly Report **************
-Santa Martin	Number of gifts given this hour: 33
-Santa Martin	Time Spent waiting duirng this hour: 0 minutes
-************************************************************************
+Time 257: Santa Martin	Gives Toy Gift Drone	wrapped in silver wrapping paper
 
-Time 301: Santa Martin	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
-Time 303: Santa Martin	Gives Toy Gift Drums	wrapped in silver wrapping paper
-Time 304: Santa Martin	Gives Toy Gift Drone	wrapped in silver wrapping paper
-Time 306: Santa Martin	Gives Toy Gift Car	wrapped in silver wrapping paper
-Time 308: Santa Martin	Gives Toy Gift Doll	wrapped in silver wrapping paper
-Time 310: Santa Martin	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
-Time 311: Santa Martin	Gives Toy Gift Barbie	wrapped in silver wrapping paper
-Time 313: Santa Martin	Gives Toy Gift Train	wrapped in blue wrapping paper
-Time 314: Santa Martin	Gives Toy Gift Doll	wrapped in blue wrapping paper
-Time 314: Santa Martin	Walked back to the Toy Store!
-Time 314: Santa Martin	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
-Time 314: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 314: Santa Martin	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
-Time 314: Santa Martin	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
-Time 314: Santa Martin	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
-Time 314: Santa Martin	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
-Time 314: Santa Martin	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
-Time 314: Santa Martin	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
-Time 314: Santa Martin	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
-Time 314: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 316: Santa Martin	Walked back to his own allocated department
-Time 317: Santa Martin	Gives Toy Gift Doll	wrapped in blue wrapping paper
-Time 319: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 320: Santa Martin	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
-Time 322: Santa Martin	Gives Toy Gift Tablet	wrapped in silver wrapping paper
-Time 323: Santa Martin	Gives Toy Gift Car	wrapped in silver wrapping paper
-Time 324: Santa Martin	Gives Toy Gift Drums	wrapped in red wrapping paper
-Time 326: Santa Martin	Gives Toy Gift PC	wrapped in red wrapping paper
-Time 328: Santa Martin	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
-Time 330: Santa Martin	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
-Time 331: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 332: Santa Martin	Walked back to the Toy Store!
-Time 332: Santa Martin	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
-Time 332: Santa Martin	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
-Time 332: Santa Martin	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
-Time 332: Santa Martin	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
-Time 332: Santa Martin	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
-Time 332: Santa Martin	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
-Time 332: Santa Martin	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
-Time 332: Santa Martin	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
-Time 332: Santa Martin	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
-Time 332: Santa Martin	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
-Time 334: Santa Martin	Walked back to his own allocated department
-Time 336: Santa Martin	Gives Toy Gift Puzzle	wrapped in red wrapping paper
-Time 337: Santa Martin	Gives Toy Gift Barbie	wrapped in red wrapping paper
-Time 339: Santa Martin	Gives Toy Gift Barbie	wrapped in blue wrapping paper
-Time 340: Santa Martin	Gives Toy Gift Drone	wrapped in pink wrapping paper
-Time 342: Santa Martin	Gives Toy Gift Tablet	wrapped in red wrapping paper
-Time 343: Santa Martin	Gives Toy Gift PC	wrapped in silver wrapping paper
-Time 345: Santa Martin	Gives Toy Gift Car	wrapped in red wrapping paper
-Time 346: Santa Martin	Gives Toy Gift Doll	wrapped in red wrapping paper
-Time 348: Santa Martin	Gives Toy Gift Drone	wrapped in red wrapping paper
-Time 350: Santa Martin	Gives Toy Gift Car	wrapped in blue wrapping paper
-Time 351: Santa Martin	Walked back to the Toy Store!
-Time 351: Santa Martin	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
-Time 351: Santa Martin	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
-Time 351: Santa Martin	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
-Time 351: Santa Martin	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
-Time 351: Santa Martin	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
-Time 351: Santa Martin	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
-Time 351: Santa Martin	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
-Time 351: Santa Martin	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
-Time 351: Santa Martin	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
-Time 351: Santa Martin	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
-Time 353: Santa Martin	Walked back to his own allocated department
-Time 355: Santa Martin	Gives Toy Gift Barbie	wrapped in silver wrapping paper
-Time 357: Santa Martin	Gives Toy Gift Drone	wrapped in red wrapping paper
-Time 359: Santa Martin	Gives Toy Gift PC	wrapped in red wrapping paper
+Time 273: Santa Martin	Walked back to the Toy Store!
+Time 273: Santa Martin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
 
-************** Hourly Report **************
-Santa Martin	Number of gifts given this hour: 32
-Santa Martin	Time Spent waiting duirng this hour: 0 minutes
-************************************************************************
+Time 273: Santa Martin	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
 
-Time 361: Santa Martin	Gives Toy Gift Barbie	wrapped in red wrapping paper
-Time 362: Santa Martin	Gives Toy Gift Puzzle	wrapped in red wrapping paper
-Time 363: Santa Martin	Gives Toy Gift Car	wrapped in silver wrapping paper
-Time 364: Santa Martin	Gives Toy Gift Puzzle	wrapped in red wrapping paper
-Time 366: Santa Martin	Gives Toy Gift Tablet	wrapped in blue wrapping paper
-Time 368: Santa Martin	Gives Toy Gift Doll	wrapped in blue wrapping paper
-Time 369: Santa Martin	Gives Toy Gift Car	wrapped in silver wrapping paper
-Time 369: Santa Martin	Walked back to the Toy Store!
-Time 369: Santa Martin	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
-Time 369: Santa Martin	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
-Time 369: Santa Martin	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
-Time 369: Santa Martin	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
-Time 369: Santa Martin	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
-Time 369: Santa Martin	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
-Time 369: Santa Martin	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
-Time 369: Santa Martin	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
-Time 369: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 369: Santa Martin	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
-Time 371: Santa Martin	Walked back to his own allocated department
-Time 372: Santa Martin	Gives Toy Gift Train	wrapped in silver wrapping paper
-Time 374: Santa Martin	Gives Toy Gift Car	wrapped in blue wrapping paper
-Time 376: Santa Martin	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
-Time 377: Santa Martin	Gives Toy Gift Drums	wrapped in silver wrapping paper
-Time 379: Santa Martin	Gives Toy Gift Guitar	wrapped in silver wrapping paper
-Time 380: Santa Martin	Gives Toy Gift Barbie	wrapped in blue wrapping paper
-Time 381: Santa Martin	Gives Toy Gift Drums	wrapped in red wrapping paper
-Time 383: Santa Martin	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
-Time 384: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 385: Santa Martin	Gives Toy Gift Train	wrapped in red wrapping paper
-Time 386: Santa Martin	Walked back to the Toy Store!
-Time 386: Santa Martin	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
-Time 386: Santa Martin	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
-Time 386: Santa Martin	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
-Time 386: Santa Martin	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
-Time 386: Santa Martin	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
-Time 386: Santa Martin	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
-Time 386: Santa Martin	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
-Time 386: Santa Martin	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
-Time 386: Santa Martin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
-Time 386: Santa Martin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
-Time 387: Santa Martin	Walked back to his own allocated department
-Time 389: Santa Martin	Gives Toy Gift Car	wrapped in blue wrapping paper
-Time 391: Santa Martin	Gives Toy Gift Tablet	wrapped in silver wrapping paper
-Time 392: Santa Martin	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
-Time 394: Santa Martin	Gives Toy Gift Train	wrapped in blue wrapping paper
-Time 396: Santa Martin	Gives Toy Gift PC	wrapped in red wrapping paper
-Time 397: Santa Martin	Gives Toy Gift Drone	wrapped in pink wrapping paper
-Time 398: Santa Martin	Gives Toy Gift Drone	wrapped in silver wrapping paper
-Time 400: Santa Martin	Gives Toy Gift Train	wrapped in red wrapping paper
-Time 401: Santa Martin	Gives Toy Gift Doll	wrapped in silver wrapping paper
-Time 403: Santa Martin	Gives Toy Gift Drone	wrapped in blue wrapping paper
-Time 404: Santa Martin	Walked back to the Toy Store!
-Time 404: Santa Martin	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
-Time 404: Santa Martin	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
-Time 404: Santa Martin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
-Time 404: Santa Martin	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
-Time 404: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 404: Santa Martin	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
-Time 404: Santa Martin	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
-Time 404: Santa Martin	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
-Time 404: Santa Martin	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
-Time 404: Santa Martin	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
-Time 407: Santa Martin	Walked back to his own allocated department
-Time 408: Santa Martin	Gives Toy Gift Guitar	wrapped in silver wrapping paper
-Time 410: Santa Martin	Gives Toy Gift PC	wrapped in silver wrapping paper
-Time 411: Santa Martin	Gives Toy Gift Doll	wrapped in silver wrapping paper
-Time 412: Santa Martin	Gives Toy Gift Drone	wrapped in red wrapping paper
-Time 414: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 415: Santa Martin	Gives Toy Gift Barbie	wrapped in silver wrapping paper
-Time 416: Santa Martin	Gives Toy Gift Tablet	wrapped in red wrapping paper
-Time 418: Santa Martin	Gives Toy Gift Tablet	wrapped in pink wrapping paper
-Time 420: Santa Martin	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
+Time 273: Santa Martin	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
 
-************** Hourly Report **************
-Santa Martin	Number of gifts given this hour: 36
-Santa Martin	Time Spent waiting duirng this hour: 0 minutes
-************************************************************************
+Time 273: Santa Martin	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
 
-Time 422: Santa Martin	Gives Toy Gift Doll	wrapped in red wrapping paper
-Time 422: Santa Martin	Walked back to the Toy Store!
-Time 422: Santa Martin	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
-Time 422: Santa Martin	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
-Time 422: Santa Martin	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
-Time 422: Santa Martin	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
-Time 422: Santa Martin	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
-Time 422: Santa Martin	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
-Time 422: Santa Martin	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
-Time 422: Santa Martin	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
-Time 422: Santa Martin	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
-Time 422: Santa Martin	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
-Time 424: Santa Martin	Walked back to his own allocated department
-Time 426: Santa Martin	Gives Toy Gift Train	wrapped in silver wrapping paper
-Time 427: Santa Martin	Gives Toy Gift Train	wrapped in red wrapping paper
-Time 428: Santa Martin	Gives Toy Gift Barbie	wrapped in pink wrapping paper
-Time 430: Santa Martin	Gives Toy Gift Drone	wrapped in silver wrapping paper
-Time 431: Santa Martin	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
-Time 433: Santa Martin	Gives Toy Gift Tablet	wrapped in pink wrapping paper
-Time 434: Santa Martin	Gives Toy Gift Barbie	wrapped in blue wrapping paper
-Time 436: Santa Martin	Gives Toy Gift Tablet	wrapped in red wrapping paper
-Time 437: Santa Martin	Gives Toy Gift Car	wrapped in pink wrapping paper
-Time 439: Santa Martin	Gives Toy Gift Car	wrapped in pink wrapping paper
-Time 439: Santa Martin	Walked back to the Toy Store!
-Time 439: Santa Martin	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
-Time 439: Santa Martin	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
-Time 439: Santa Martin	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
-Time 439: Santa Martin	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
-Time 439: Santa Martin	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
-Time 439: Santa Martin	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
-Time 439: Santa Martin	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
-Time 439: Santa Martin	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
-Time 439: Santa Martin	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
-Time 439: Santa Martin	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
-Time 442: Santa Martin	Walked back to his own allocated department
-Time 444: Santa Martin	Gives Toy Gift Drums	wrapped in blue wrapping paper
-Time 446: Santa Martin	Gives Toy Gift Train	wrapped in silver wrapping paper
-Time 447: Santa Martin	Gives Toy Gift Doll	wrapped in pink wrapping paper
-Time 449: Santa Martin	Gives Toy Gift PC	wrapped in blue wrapping paper
-Time 450: Santa Martin	Gives Toy Gift Tablet	wrapped in pink wrapping paper
-Time 452: Santa Martin	Gives Toy Gift Doll	wrapped in red wrapping paper
-Time 454: Santa Martin	Gives Toy Gift Car	wrapped in silver wrapping paper
-Time 455: Santa Martin	Gives Toy Gift Tablet	wrapped in red wrapping paper
-Time 456: Santa Martin	Gives Toy Gift Train	wrapped in pink wrapping paper
-Time 457: Santa Martin	Gives Toy Gift Car	wrapped in pink wrapping paper
-Time 458: Santa Martin	Walked back to the Toy Store!
-Time 458: Santa Martin	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
-Time 458: Santa Martin	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
-Time 458: Santa Martin	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
-Time 458: Santa Martin	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
-Time 458: Santa Martin	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
-Time 458: Santa Martin	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
-Time 458: Santa Martin	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
-Time 458: Santa Martin	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
-Time 458: Santa Martin	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
-Time 458: Santa Martin	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
-Time 460: Santa Martin	Walked back to his own allocated department
-Time 462: Santa Martin	Gives Toy Gift Doll	wrapped in red wrapping paper
-Time 464: Santa Martin	Gives Toy Gift Train	wrapped in silver wrapping paper
-Time 466: Santa Martin	Gives Toy Gift Train	wrapped in pink wrapping paper
-Time 468: Santa Martin	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
-Time 469: Santa Martin	Gives Toy Gift Tablet	wrapped in silver wrapping paper
-Time 471: Santa Martin	Gives Toy Gift Guitar	wrapped in red wrapping paper
-Time 472: Santa Martin	Gives Toy Gift Drums	wrapped in blue wrapping paper
-Time 474: Santa Martin	Gives Toy Gift PC	wrapped in red wrapping paper
-Time 476: Santa Martin	Gives Toy Gift Doll	wrapped in red wrapping paper
-Time 478: Santa Martin	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
-Time 479: Santa Martin	Walked back to the Toy Store!
-Time 479: Santa Martin	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
-Time 479: Santa Martin	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
-Time 479: Santa Martin	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
-Time 479: Santa Martin	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
-Time 479: Santa Martin	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
-Time 479: Santa Martin	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
-Time 479: Santa Martin	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
-Time 479: Santa Martin	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
-Time 479: Santa Martin	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
-Time 479: Santa Martin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
-Time 480: Santa Martin	Walked back to his own allocated department
+Time 273: Santa Martin	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+
+Time 273: Santa Martin	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+
+Time 273: Santa Martin	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
+
+Time 273: Santa Martin	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
+
+Time 273: Santa Martin	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+
+Time 273: Santa Martin	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
+
+Time 299: Santa Martin	Walked back to his own allocated department
+Time 324: Santa Martin	Gives Toy Gift Drone	wrapped in blue wrapping paper
+
+Time 344: Santa Martin	Gives Toy Gift Doll	wrapped in pink wrapping paper
+
+Time 364: Santa Martin	Gives Toy Gift PC	wrapped in silver wrapping paper
+
+Time 384: Santa Martin	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
+
+Time 409: Santa Martin	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
+
+Time 420: Santa Martin	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
+
+Time 438: Santa Martin	Gives Toy Gift Drums	wrapped in pink wrapping paper
+
+Time 450: Santa Martin	Gives Toy Gift Barbie	wrapped in silver wrapping paper
+
+Time 468: Santa Martin	Gives Toy Gift Drums	wrapped in blue wrapping paper
+
+Time 480: Santa Martin	Gives Toy Gift Train	wrapped in pink wrapping paper
+
 Time 480: Santa Martin	Walked back to the Toy Store!
-
-************** Hourly Report **************
-Santa Martin	Number of gifts given this hour: 31
-Santa Martin	Time Spent waiting duirng this hour: 0 minutes
-************************************************************************
-

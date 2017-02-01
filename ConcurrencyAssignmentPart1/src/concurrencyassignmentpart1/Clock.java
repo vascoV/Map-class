@@ -5,7 +5,7 @@ public class Clock extends Thread {
     private volatile int count = 0;
     boolean stop = false;
     final int MAXTICK = 60 * 8;
-    final int TICKTIME = 1000;
+    final int TICKTIME = 100;
 
     boolean finished = false;
 

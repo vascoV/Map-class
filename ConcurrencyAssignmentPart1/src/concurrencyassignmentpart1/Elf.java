@@ -16,7 +16,7 @@ public class Elf extends Thread {
     int toyCount = 0;
 
     int ticksWaiting = 0;
-    int reports = 0;
+//    int reports = 0;
     
     int hCount = 0;
     int hTicks = 0;
@@ -30,6 +30,7 @@ public class Elf extends Thread {
      * output to a txt file
      */
     PrintWriter writer;
+    private int lastPrint = 0;
 
     public Elf(String name, Sleight s) {
         
@@ -58,7 +59,7 @@ public class Elf extends Thread {
     public void run() {
         while (!clock.isStopped()) {
            
-            report();
+//            report();
 
             /**
              * Choosing toys from the shelves
@@ -70,7 +71,7 @@ public class Elf extends Thread {
                 
             } catch (InterruptedException ex) {}
             
-            report();
+//            report();
 
             /**
              * Storing a random toy from the toys array
@@ -99,53 +100,40 @@ public class Elf extends Thread {
                 
             } catch (InterruptedException ex) {}
             
-            report();
+//            report();
                         
             Present p = new Present(toy, gender, colour);
 
             writer.println(clock.toString() + "Elf " + elf_id + "\t" + "Wrapped toy " + toy + " in "+ (gender?(colour? "blue":"red"):(colour? "pink" : "silver")) + " wrapping paper");
 
             synchronized(sleight){
-                
+                if(clock.isStopped()) { break; }
                 int startTime = clock.getTick();
                 while(sleight.isFull() && clock.getState() != Thread.State.TERMINATED){
                     
-                    if(clock.isStopped()){ break;}
-                    
                     try{
-                        System.out.println(elf_id + " is" + "waiting....");
+                        System.out.println(elf_id + " is" + " Waiting....");
                         sleight.wait();
                     } catch (InterruptedException ex){}
                 }
+                sleight.notifyAll();
                 int endTime = clock.getTick();
-               ticksWaiting += endTime - startTime;
+                ticksWaiting += endTime - startTime;
                 if(!sleight.isFull()){ 
                     Produce(p);
                 }
-                sleight.notifyAll();
+                
+               
             }
-
-//            boolean isFull = sleight.isFull();
-//            int diff = 0;
-//            if (isFull) {
-//                diff = clock.getTick();
-//            }
-//
-//            Produce(p);
-//
-//            if (isFull) {
-//                diff = (clock.getTick() - diff);
-//                ticksWaiting += diff;
-//                hTicks += diff;
-//            }
 
             writer.println(clock.toString() + "Elf " + elf_id + "\t" + "Placed toy " + toy + " on sleigh");
             toyCount++;
             hCount++;
-            report();
-
+            if((int) (clock.getTick()/60) > lastPrint){
+//                report();
+                lastPrint++;
+            }
         }
-        writeElfReport();
         writer.close();
     }
 
@@ -155,23 +143,9 @@ public class Elf extends Thread {
     }
 
     public void report() {
-       
-        if (clock.getTick() > 60 * (reports + 1)) {
-
-            writeElfReport();
-            
-            hTicks = 0;
-            hCount = 0;
-            reports++;
-        }
-    }
-
-    public void writeElfReport() {
-        writer.println();
-        writer.println("************************* Elf Hourly Report *************************");
-        writer.println("Elf " + elf_id + "\t" + "Number of gifts wrapped this hour: " + hCount);
-        writer.println("Elf " + elf_id + "\t" +"Time Spent waiting duiring this hour: " + hTicks  + " minutes");
-        writer.println("***************************************************************************");
-        writer.println();
+        System.out.println();
+        String report = "Hourly Report: " + clock.getTick()/60 + " " + "Elf " + elf_id + "has wrapped " + hCount + " and have waited " + ticksWaiting;
+        System.out.println(report);
+        System.out.println();
     }
 }

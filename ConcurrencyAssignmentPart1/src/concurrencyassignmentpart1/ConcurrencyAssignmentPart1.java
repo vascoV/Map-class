@@ -6,16 +6,13 @@ public class ConcurrencyAssignmentPart1 {
         
         System.out.println("Start of the Working Day" + "\n");
         
-        /**
-         * clock object for ... 
-         */
         Clock clock = Clock.getInstance();
         
         /**
          * Constructor passes the max number 
          * of gifts in to the sleight
          */
-        Sleight sleight = new Sleight();
+        Sleight sleight = new Sleight(120);
 
         Santa santa1 = new Santa("Kevin", sleight);
         Santa santa2 = new Santa("Richard", sleight);
@@ -41,6 +38,19 @@ public class ConcurrencyAssignmentPart1 {
         elf_5.start();
         
         clock.start();
+        
+//        while(clock.getState() != Thread.State.TERMINATED){
+//            
+//            if ((clock.getTick() % 60) == 0 && clock.getTick()!=0){ 
+//                try {
+//                   Thread.sleep(200);
+//                    
+//                } catch (Exception e) {
+//                }
+//
+//                elf_1.writeElfReport();
+//            }
+//        }
         
         /**
          * Causes the current thread 
@@ -82,6 +92,6 @@ public class ConcurrencyAssignmentPart1 {
         System.out.println("\n");
         System.out.println("Toys left into the sleigh at the end of the day: " + sleight.numOfToys() + "\n");
         System.out.print("\n");
-        System.out.println("End of the Day");
+        System.out.println("End of the Working Day");
     }
 }
