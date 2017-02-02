@@ -56,7 +56,7 @@ public class Santa extends Thread {
         
         while (!clock.isStopped()) {
             
-//            while(sack.size() < Sack_Capacity) {
+            while(sack.size() < Sack_Capacity) {
                 synchronized(buf){ 
                     int startTime = clock.getTick();
                     while(buf.isEmpty() && clock.getState() != Thread.State.TERMINATED){
@@ -76,10 +76,10 @@ public class Santa extends Thread {
 //                    if(buf.getCounter() >= 6){
 //                        break;
 //                    }
-//                    if(sack.size() >= 6 && buf.isEmpty()){      
-//                    break;
-//                    }
-//            }
+                    if(sack.size() >= 6 && buf.isEmpty()){      
+                    break;
+                    }
+            }
             
             /**
              * Santa need some time to Walk back

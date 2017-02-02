@@ -1,38 +1,52 @@
-Time 8: Santa Marc	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
-Time 24: Santa Marc	Walked back to his own allocated department
-Time 50: Santa Marc	Gives Toy Gift Drone	wrapped in pink wrapping paper
+Time 11: Santa Marc	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
+Time 12: Santa Marc	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 15: Santa Marc	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
+Time 20: Santa Marc	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 21: Santa Marc	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+Time 27: Santa Marc	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
+Time 55: Santa Marc	Walked back to his own allocated department
+Time 72: Santa Marc	Gives Toy Gift Drums	wrapped in silver wrapping paper
 
-Time 69: Santa Marc	Walked back to the Toy Store!
-Time 69: Santa Marc	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
-Time 96: Santa Marc	Walked back to his own allocated department
-Time 111: Santa Marc	Gives Toy Gift Drone	wrapped in silver wrapping paper
+Time 93: Santa Marc	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
 
-Time 130: Santa Marc	Walked back to the Toy Store!
-Time 130: Santa Marc	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
-Time 145: Santa Marc	Walked back to his own allocated department
-Time 169: Santa Marc	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
+Time 109: Santa Marc	Gives Toy Gift Doll	wrapped in blue wrapping paper
 
-Time 199: Santa Marc	Walked back to the Toy Store!
-Time 199: Santa Marc	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
-Time 225: Santa Marc	Walked back to his own allocated department
-Time 242: Santa Marc	Gives Toy Gift Guitar	wrapped in blue wrapping paper
+Time 134: Santa Marc	Gives Toy Gift Drone	wrapped in pink wrapping paper
 
-Time 270: Santa Marc	Walked back to the Toy Store!
-Time 270: Santa Marc	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
-Time 296: Santa Marc	Walked back to his own allocated department
-Time 314: Santa Marc	Gives Toy Gift PC	wrapped in red wrapping paper
+Time 155: Santa Marc	Gives Toy Gift Drums	wrapped in blue wrapping paper
 
-Time 336: Santa Marc	Walked back to the Toy Store!
-Time 336: Santa Marc	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
-Time 360: Santa Marc	Walked back to his own allocated department
-Time 385: Santa Marc	Gives Toy Gift Guitar	wrapped in pink wrapping paper
+Time 180: Santa Marc	Gives Toy Gift Drone	wrapped in blue wrapping paper
 
-Time 410: Santa Marc	Walked back to the Toy Store!
-Time 410: Santa Marc	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
-Time 432: Santa Marc	Walked back to his own allocated department
-Time 458: Santa Marc	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
+Time 202: Santa Marc	Walked back to the Toy Store!
+Time 202: Santa Marc	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
+Time 202: Santa Marc	Took toy Gift Dinosaur	wrapped in pink wrapping paper from sleigh.
+Time 202: Santa Marc	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
+Time 202: Santa Marc	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+Time 202: Santa Marc	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+Time 202: Santa Marc	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+Time 202: Santa Marc	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
+Time 202: Santa Marc	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
+Time 202: Santa Marc	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 202: Santa Marc	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+Time 230: Santa Marc	Walked back to his own allocated department
+Time 257: Santa Marc	Gives Toy Gift Car	wrapped in blue wrapping paper
 
-Time 474: Santa Marc	Walked back to the Toy Store!
-Time 474: Santa Marc	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
-Time 480: Santa Marc	Walked back to his own allocated department
+Time 283: Santa Marc	Gives Toy Gift Dinosaur	wrapped in pink wrapping paper
+
+Time 304: Santa Marc	Gives Toy Gift PC	wrapped in silver wrapping paper
+
+Time 323: Santa Marc	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
+
+Time 343: Santa Marc	Gives Toy Gift Train	wrapped in red wrapping paper
+
+Time 369: Santa Marc	Gives Toy Gift Guitar	wrapped in red wrapping paper
+
+Time 396: Santa Marc	Gives Toy Gift Train	wrapped in pink wrapping paper
+
+Time 413: Santa Marc	Gives Toy Gift Puzzle	wrapped in red wrapping paper
+
+Time 431: Santa Marc	Gives Toy Gift PC	wrapped in pink wrapping paper
+
+Time 456: Santa Marc	Gives Toy Gift PC	wrapped in blue wrapping paper
+
 Time 480: Santa Marc	Walked back to the Toy Store!

@@ -1,90 +1,105 @@
-Time 6: Elf Suzan	Selected toy Drone for girl
-Time 8: Elf Suzan	Wrapped toy Drone in pink wrapping paper
-Time 8: Elf Suzan	Placed toy Drone on sleigh
-Time 13: Elf Suzan	Selected toy Doll for girl
-Time 20: Elf Suzan	Wrapped toy Doll in pink wrapping paper
-Time 20: Elf Suzan	Placed toy Doll on sleigh
-Time 29: Elf Suzan	Selected toy PC for boy
-Time 30: Elf Suzan	Wrapped toy PC in blue wrapping paper
-Time 30: Elf Suzan	Placed toy PC on sleigh
-Time 36: Elf Suzan	Selected toy Train for boy
-Time 40: Elf Suzan	Wrapped toy Train in red wrapping paper
-Time 40: Elf Suzan	Placed toy Train on sleigh
-Time 48: Elf Suzan	Selected toy Tablet for girl
-Time 49: Elf Suzan	Wrapped toy Tablet in pink wrapping paper
-Time 49: Elf Suzan	Placed toy Tablet on sleigh
-Time 52: Elf Suzan	Selected toy PC for girl
-Time 58: Elf Suzan	Wrapped toy PC in pink wrapping paper
-Time 58: Elf Suzan	Placed toy PC on sleigh
-Time 60: Elf Suzan	Selected toy Drone for girl
-Time 67: Elf Suzan	Wrapped toy Drone in silver wrapping paper
-Time 67: Elf Suzan	Placed toy Drone on sleigh
-Time 69: Elf Suzan	Selected toy Guitar for boy
-Time 73: Elf Suzan	Wrapped toy Guitar in red wrapping paper
-Time 73: Elf Suzan	Placed toy Guitar on sleigh
-Time 74: Elf Suzan	Selected toy Doll for girl
-Time 76: Elf Suzan	Wrapped toy Doll in pink wrapping paper
-Time 76: Elf Suzan	Placed toy Doll on sleigh
-Time 79: Elf Suzan	Selected toy Dinosaur for boy
-Time 81: Elf Suzan	Wrapped toy Dinosaur in blue wrapping paper
-Time 81: Elf Suzan	Placed toy Dinosaur on sleigh
-Time 87: Elf Suzan	Selected toy Drums for girl
-Time 89: Elf Suzan	Wrapped toy Drums in silver wrapping paper
-Time 89: Elf Suzan	Placed toy Drums on sleigh
-Time 97: Elf Suzan	Selected toy Drums for girl
-Time 106: Elf Suzan	Wrapped toy Drums in pink wrapping paper
-Time 106: Elf Suzan	Placed toy Drums on sleigh
-Time 115: Elf Suzan	Selected toy PC for girl
-Time 122: Elf Suzan	Wrapped toy PC in silver wrapping paper
-Time 122: Elf Suzan	Placed toy PC on sleigh
-Time 129: Elf Suzan	Selected toy PC for boy
-Time 133: Elf Suzan	Wrapped toy PC in red wrapping paper
-Time 133: Elf Suzan	Placed toy PC on sleigh
-Time 143: Elf Suzan	Selected toy Train for girl
-Time 144: Elf Suzan	Wrapped toy Train in silver wrapping paper
-Time 144: Elf Suzan	Placed toy Train on sleigh
-Time 153: Elf Suzan	Selected toy Doll for girl
-Time 158: Elf Suzan	Wrapped toy Doll in silver wrapping paper
-Time 158: Elf Suzan	Placed toy Doll on sleigh
-Time 166: Elf Suzan	Selected toy Doll for girl
-Time 167: Elf Suzan	Wrapped toy Doll in silver wrapping paper
-Time 167: Elf Suzan	Placed toy Doll on sleigh
-Time 167: Elf Suzan	Selected toy Drums for boy
-Time 168: Elf Suzan	Wrapped toy Drums in blue wrapping paper
-Time 168: Elf Suzan	Placed toy Drums on sleigh
-Time 175: Elf Suzan	Selected toy Train for girl
-Time 184: Elf Suzan	Wrapped toy Train in pink wrapping paper
-Time 184: Elf Suzan	Placed toy Train on sleigh
-Time 189: Elf Suzan	Selected toy Guitar for boy
-Time 198: Elf Suzan	Wrapped toy Guitar in blue wrapping paper
-Time 198: Elf Suzan	Placed toy Guitar on sleigh
-Time 205: Elf Suzan	Selected toy Drums for boy
-Time 211: Elf Suzan	Wrapped toy Drums in red wrapping paper
-Time 211: Elf Suzan	Placed toy Drums on sleigh
-Time 219: Elf Suzan	Selected toy Puzzle for girl
-Time 223: Elf Suzan	Wrapped toy Puzzle in pink wrapping paper
-Time 223: Elf Suzan	Placed toy Puzzle on sleigh
-Time 228: Elf Suzan	Selected toy Doll for boy
-Time 236: Elf Suzan	Wrapped toy Doll in red wrapping paper
-Time 236: Elf Suzan	Placed toy Doll on sleigh
-Time 237: Elf Suzan	Selected toy Dinosaur for boy
-Time 243: Elf Suzan	Wrapped toy Dinosaur in red wrapping paper
-Time 243: Elf Suzan	Placed toy Dinosaur on sleigh
-Time 245: Elf Suzan	Selected toy Dinosaur for girl
-Time 255: Elf Suzan	Wrapped toy Dinosaur in silver wrapping paper
-Time 255: Elf Suzan	Placed toy Dinosaur on sleigh
-Time 255: Elf Suzan	Selected toy Dinosaur for girl
-Time 256: Elf Suzan	Wrapped toy Dinosaur in pink wrapping paper
-Time 256: Elf Suzan	Placed toy Dinosaur on sleigh
-Time 263: Elf Suzan	Selected toy Drone for boy
-Time 266: Elf Suzan	Wrapped toy Drone in red wrapping paper
-Time 266: Elf Suzan	Placed toy Drone on sleigh
-Time 274: Elf Suzan	Selected toy Drone for girl
-Time 280: Elf Suzan	Wrapped toy Drone in pink wrapping paper
-Time 280: Elf Suzan	Placed toy Drone on sleigh
-Time 289: Elf Suzan	Selected toy Drone for boy
-Time 289: Elf Suzan	Wrapped toy Drone in red wrapping paper
-Time 478: Elf Suzan	Placed toy Drone on sleigh
-Time 480: Elf Suzan	Selected toy Tablet for boy
-Time 480: Elf Suzan	Wrapped toy Tablet in red wrapping paper
-Time 480: Elf Suzan	Placed toy Tablet on sleigh
+Time 7: Elf Suzan	Selected toy Dinosaur for girl
+Time 12: Elf Suzan	Wrapped toy Dinosaur in silver wrapping paper
+Time 12: Elf Suzan	Placed toy Dinosaur on sleigh
+Time 20: Elf Suzan	Selected toy Drums for boy
+Time 21: Elf Suzan	Wrapped toy Drums in blue wrapping paper
+Time 21: Elf Suzan	Placed toy Drums on sleigh
+Time 30: Elf Suzan	Selected toy Dinosaur for girl
+Time 31: Elf Suzan	Wrapped toy Dinosaur in pink wrapping paper
+Time 31: Elf Suzan	Placed toy Dinosaur on sleigh
+Time 33: Elf Suzan	Selected toy Dinosaur for girl
+Time 41: Elf Suzan	Wrapped toy Dinosaur in silver wrapping paper
+Time 41: Elf Suzan	Placed toy Dinosaur on sleigh
+Time 48: Elf Suzan	Selected toy Barbie for girl
+Time 49: Elf Suzan	Wrapped toy Barbie in pink wrapping paper
+Time 49: Elf Suzan	Placed toy Barbie on sleigh
+Time 58: Elf Suzan	Selected toy Train for boy
+Time 67: Elf Suzan	Wrapped toy Train in blue wrapping paper
+Time 67: Elf Suzan	Placed toy Train on sleigh
+Time 69: Elf Suzan	Selected toy Car for girl
+Time 77: Elf Suzan	Wrapped toy Car in pink wrapping paper
+Time 77: Elf Suzan	Placed toy Car on sleigh
+Time 80: Elf Suzan	Selected toy Doll for boy
+Time 85: Elf Suzan	Wrapped toy Doll in blue wrapping paper
+Time 85: Elf Suzan	Placed toy Doll on sleigh
+Time 89: Elf Suzan	Selected toy Train for boy
+Time 91: Elf Suzan	Wrapped toy Train in blue wrapping paper
+Time 91: Elf Suzan	Placed toy Train on sleigh
+Time 99: Elf Suzan	Selected toy Barbie for girl
+Time 105: Elf Suzan	Wrapped toy Barbie in silver wrapping paper
+Time 105: Elf Suzan	Placed toy Barbie on sleigh
+Time 105: Elf Suzan	Selected toy Dinosaur for girl
+Time 114: Elf Suzan	Wrapped toy Dinosaur in pink wrapping paper
+Time 114: Elf Suzan	Placed toy Dinosaur on sleigh
+Time 119: Elf Suzan	Selected toy Drums for girl
+Time 123: Elf Suzan	Wrapped toy Drums in pink wrapping paper
+Time 123: Elf Suzan	Placed toy Drums on sleigh
+Time 125: Elf Suzan	Selected toy Drone for girl
+Time 133: Elf Suzan	Wrapped toy Drone in silver wrapping paper
+Time 133: Elf Suzan	Placed toy Drone on sleigh
+Time 134: Elf Suzan	Selected toy Car for boy
+Time 139: Elf Suzan	Wrapped toy Car in blue wrapping paper
+Time 139: Elf Suzan	Placed toy Car on sleigh
+Time 147: Elf Suzan	Selected toy Barbie for boy
+Time 151: Elf Suzan	Wrapped toy Barbie in blue wrapping paper
+Time 151: Elf Suzan	Placed toy Barbie on sleigh
+Time 160: Elf Suzan	Selected toy Dinosaur for boy
+Time 169: Elf Suzan	Wrapped toy Dinosaur in blue wrapping paper
+Time 169: Elf Suzan	Placed toy Dinosaur on sleigh
+Time 169: Elf Suzan	Selected toy Car for boy
+Time 179: Elf Suzan	Wrapped toy Car in red wrapping paper
+Time 179: Elf Suzan	Placed toy Car on sleigh
+Time 180: Elf Suzan	Selected toy PC for girl
+Time 186: Elf Suzan	Wrapped toy PC in pink wrapping paper
+Time 186: Elf Suzan	Placed toy PC on sleigh
+Time 191: Elf Suzan	Selected toy Guitar for boy
+Time 191: Elf Suzan	Wrapped toy Guitar in red wrapping paper
+Time 191: Elf Suzan	Placed toy Guitar on sleigh
+Time 192: Elf Suzan	Selected toy PC for girl
+Time 197: Elf Suzan	Wrapped toy PC in silver wrapping paper
+Time 197: Elf Suzan	Placed toy PC on sleigh
+Time 202: Elf Suzan	Selected toy Train for girl
+Time 209: Elf Suzan	Wrapped toy Train in silver wrapping paper
+Time 209: Elf Suzan	Placed toy Train on sleigh
+Time 218: Elf Suzan	Selected toy Car for girl
+Time 224: Elf Suzan	Wrapped toy Car in pink wrapping paper
+Time 224: Elf Suzan	Placed toy Car on sleigh
+Time 230: Elf Suzan	Selected toy Puzzle for girl
+Time 232: Elf Suzan	Wrapped toy Puzzle in silver wrapping paper
+Time 232: Elf Suzan	Placed toy Puzzle on sleigh
+Time 237: Elf Suzan	Selected toy Drone for boy
+Time 245: Elf Suzan	Wrapped toy Drone in red wrapping paper
+Time 245: Elf Suzan	Placed toy Drone on sleigh
+Time 245: Elf Suzan	Selected toy Barbie for boy
+Time 254: Elf Suzan	Wrapped toy Barbie in red wrapping paper
+Time 254: Elf Suzan	Placed toy Barbie on sleigh
+Time 261: Elf Suzan	Selected toy Puzzle for boy
+Time 268: Elf Suzan	Wrapped toy Puzzle in red wrapping paper
+Time 268: Elf Suzan	Placed toy Puzzle on sleigh
+Time 269: Elf Suzan	Selected toy Dinosaur for girl
+Time 277: Elf Suzan	Wrapped toy Dinosaur in silver wrapping paper
+Time 277: Elf Suzan	Placed toy Dinosaur on sleigh
+Time 278: Elf Suzan	Selected toy Barbie for boy
+Time 280: Elf Suzan	Wrapped toy Barbie in red wrapping paper
+Time 280: Elf Suzan	Placed toy Barbie on sleigh
+Time 287: Elf Suzan	Selected toy Car for boy
+Time 297: Elf Suzan	Wrapped toy Car in blue wrapping paper
+Time 297: Elf Suzan	Placed toy Car on sleigh
+Time 304: Elf Suzan	Selected toy Guitar for boy
+Time 305: Elf Suzan	Wrapped toy Guitar in red wrapping paper
+Time 305: Elf Suzan	Placed toy Guitar on sleigh
+Time 314: Elf Suzan	Selected toy Tablet for girl
+Time 320: Elf Suzan	Wrapped toy Tablet in silver wrapping paper
+Time 320: Elf Suzan	Placed toy Tablet on sleigh
+Time 321: Elf Suzan	Selected toy Guitar for boy
+Time 330: Elf Suzan	Wrapped toy Guitar in blue wrapping paper
+Time 330: Elf Suzan	Placed toy Guitar on sleigh
+Time 330: Elf Suzan	Selected toy Barbie for girl
+Time 336: Elf Suzan	Wrapped toy Barbie in silver wrapping paper
+Time 336: Elf Suzan	Placed toy Barbie on sleigh
+Time 337: Elf Suzan	Selected toy Drone for girl
+Time 346: Elf Suzan	Wrapped toy Drone in pink wrapping paper
+Time 472: Elf Suzan	Placed toy Drone on sleigh
+Time 480: Elf Suzan	Selected toy Dinosaur for girl
+Time 480: Elf Suzan	Wrapped toy Dinosaur in silver wrapping paper
+Time 480: Elf Suzan	Placed toy Dinosaur on sleigh

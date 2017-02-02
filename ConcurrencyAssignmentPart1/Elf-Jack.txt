@@ -1,84 +1,108 @@
-Time 7: Elf Jack	Selected toy Car for boy
-Time 14: Elf Jack	Wrapped toy Car in blue wrapping paper
-Time 14: Elf Jack	Placed toy Car on sleigh
-Time 20: Elf Jack	Selected toy Barbie for girl
-Time 29: Elf Jack	Wrapped toy Barbie in silver wrapping paper
-Time 29: Elf Jack	Placed toy Barbie on sleigh
-Time 30: Elf Jack	Selected toy Puzzle for girl
-Time 38: Elf Jack	Wrapped toy Puzzle in silver wrapping paper
-Time 38: Elf Jack	Placed toy Puzzle on sleigh
-Time 38: Elf Jack	Selected toy PC for boy
-Time 46: Elf Jack	Wrapped toy PC in red wrapping paper
-Time 46: Elf Jack	Placed toy PC on sleigh
-Time 50: Elf Jack	Selected toy Train for girl
-Time 56: Elf Jack	Wrapped toy Train in pink wrapping paper
-Time 56: Elf Jack	Placed toy Train on sleigh
-Time 63: Elf Jack	Selected toy Doll for girl
-Time 63: Elf Jack	Wrapped toy Doll in silver wrapping paper
-Time 63: Elf Jack	Placed toy Doll on sleigh
-Time 70: Elf Jack	Selected toy Train for boy
-Time 76: Elf Jack	Wrapped toy Train in red wrapping paper
-Time 76: Elf Jack	Placed toy Train on sleigh
-Time 77: Elf Jack	Selected toy Guitar for boy
-Time 85: Elf Jack	Wrapped toy Guitar in blue wrapping paper
-Time 85: Elf Jack	Placed toy Guitar on sleigh
-Time 94: Elf Jack	Selected toy Guitar for girl
-Time 102: Elf Jack	Wrapped toy Guitar in pink wrapping paper
-Time 102: Elf Jack	Placed toy Guitar on sleigh
-Time 111: Elf Jack	Selected toy Dinosaur for girl
-Time 111: Elf Jack	Wrapped toy Dinosaur in silver wrapping paper
-Time 111: Elf Jack	Placed toy Dinosaur on sleigh
-Time 114: Elf Jack	Selected toy Train for boy
-Time 122: Elf Jack	Wrapped toy Train in red wrapping paper
-Time 122: Elf Jack	Placed toy Train on sleigh
-Time 126: Elf Jack	Selected toy Puzzle for boy
-Time 127: Elf Jack	Wrapped toy Puzzle in blue wrapping paper
-Time 127: Elf Jack	Placed toy Puzzle on sleigh
-Time 136: Elf Jack	Selected toy Dinosaur for girl
-Time 144: Elf Jack	Wrapped toy Dinosaur in silver wrapping paper
-Time 144: Elf Jack	Placed toy Dinosaur on sleigh
-Time 145: Elf Jack	Selected toy Barbie for boy
-Time 153: Elf Jack	Wrapped toy Barbie in red wrapping paper
-Time 153: Elf Jack	Placed toy Barbie on sleigh
-Time 162: Elf Jack	Selected toy Tablet for boy
-Time 170: Elf Jack	Wrapped toy Tablet in red wrapping paper
-Time 170: Elf Jack	Placed toy Tablet on sleigh
-Time 176: Elf Jack	Selected toy Drums for girl
-Time 186: Elf Jack	Wrapped toy Drums in pink wrapping paper
-Time 186: Elf Jack	Placed toy Drums on sleigh
-Time 186: Elf Jack	Selected toy Car for boy
-Time 192: Elf Jack	Wrapped toy Car in blue wrapping paper
-Time 192: Elf Jack	Placed toy Car on sleigh
-Time 199: Elf Jack	Selected toy Drums for girl
-Time 206: Elf Jack	Wrapped toy Drums in silver wrapping paper
-Time 206: Elf Jack	Placed toy Drums on sleigh
-Time 207: Elf Jack	Selected toy Dinosaur for boy
-Time 208: Elf Jack	Wrapped toy Dinosaur in red wrapping paper
-Time 208: Elf Jack	Placed toy Dinosaur on sleigh
-Time 209: Elf Jack	Selected toy Puzzle for boy
-Time 215: Elf Jack	Wrapped toy Puzzle in red wrapping paper
-Time 215: Elf Jack	Placed toy Puzzle on sleigh
-Time 218: Elf Jack	Selected toy Puzzle for boy
-Time 224: Elf Jack	Wrapped toy Puzzle in blue wrapping paper
-Time 224: Elf Jack	Placed toy Puzzle on sleigh
-Time 226: Elf Jack	Selected toy Drone for girl
-Time 228: Elf Jack	Wrapped toy Drone in silver wrapping paper
-Time 228: Elf Jack	Placed toy Drone on sleigh
-Time 234: Elf Jack	Selected toy Puzzle for boy
-Time 235: Elf Jack	Wrapped toy Puzzle in red wrapping paper
-Time 235: Elf Jack	Placed toy Puzzle on sleigh
-Time 243: Elf Jack	Selected toy PC for boy
-Time 245: Elf Jack	Wrapped toy PC in red wrapping paper
-Time 245: Elf Jack	Placed toy PC on sleigh
-Time 253: Elf Jack	Selected toy PC for boy
-Time 255: Elf Jack	Wrapped toy PC in blue wrapping paper
-Time 255: Elf Jack	Placed toy PC on sleigh
-Time 264: Elf Jack	Selected toy Car for girl
-Time 264: Elf Jack	Wrapped toy Car in pink wrapping paper
-Time 264: Elf Jack	Placed toy Car on sleigh
-Time 273: Elf Jack	Selected toy Guitar for girl
-Time 283: Elf Jack	Wrapped toy Guitar in pink wrapping paper
-Time 283: Elf Jack	Placed toy Guitar on sleigh
-Time 288: Elf Jack	Selected toy Guitar for girl
-Time 288: Elf Jack	Wrapped toy Guitar in silver wrapping paper
-Time 480: Elf Jack	Placed toy Guitar on sleigh
+Time 5: Elf Jack	Selected toy Drums for girl
+Time 11: Elf Jack	Wrapped toy Drums in silver wrapping paper
+Time 11: Elf Jack	Placed toy Drums on sleigh
+Time 16: Elf Jack	Selected toy Puzzle for boy
+Time 19: Elf Jack	Wrapped toy Puzzle in blue wrapping paper
+Time 19: Elf Jack	Placed toy Puzzle on sleigh
+Time 26: Elf Jack	Selected toy Drone for boy
+Time 27: Elf Jack	Wrapped toy Drone in blue wrapping paper
+Time 27: Elf Jack	Placed toy Drone on sleigh
+Time 31: Elf Jack	Selected toy Guitar for boy
+Time 32: Elf Jack	Wrapped toy Guitar in blue wrapping paper
+Time 32: Elf Jack	Placed toy Guitar on sleigh
+Time 41: Elf Jack	Selected toy Doll for boy
+Time 43: Elf Jack	Wrapped toy Doll in blue wrapping paper
+Time 43: Elf Jack	Placed toy Doll on sleigh
+Time 46: Elf Jack	Selected toy Drums for girl
+Time 47: Elf Jack	Wrapped toy Drums in silver wrapping paper
+Time 47: Elf Jack	Placed toy Drums on sleigh
+Time 47: Elf Jack	Selected toy PC for boy
+Time 53: Elf Jack	Wrapped toy PC in blue wrapping paper
+Time 53: Elf Jack	Placed toy PC on sleigh
+Time 57: Elf Jack	Selected toy Barbie for boy
+Time 67: Elf Jack	Wrapped toy Barbie in red wrapping paper
+Time 67: Elf Jack	Placed toy Barbie on sleigh
+Time 67: Elf Jack	Selected toy Puzzle for boy
+Time 74: Elf Jack	Wrapped toy Puzzle in red wrapping paper
+Time 74: Elf Jack	Placed toy Puzzle on sleigh
+Time 82: Elf Jack	Selected toy Drums for girl
+Time 83: Elf Jack	Wrapped toy Drums in silver wrapping paper
+Time 83: Elf Jack	Placed toy Drums on sleigh
+Time 83: Elf Jack	Selected toy Train for girl
+Time 86: Elf Jack	Wrapped toy Train in pink wrapping paper
+Time 86: Elf Jack	Placed toy Train on sleigh
+Time 93: Elf Jack	Selected toy Car for boy
+Time 103: Elf Jack	Wrapped toy Car in blue wrapping paper
+Time 103: Elf Jack	Placed toy Car on sleigh
+Time 107: Elf Jack	Selected toy PC for girl
+Time 111: Elf Jack	Wrapped toy PC in silver wrapping paper
+Time 111: Elf Jack	Placed toy PC on sleigh
+Time 120: Elf Jack	Selected toy Train for girl
+Time 126: Elf Jack	Wrapped toy Train in pink wrapping paper
+Time 126: Elf Jack	Placed toy Train on sleigh
+Time 126: Elf Jack	Selected toy Tablet for girl
+Time 134: Elf Jack	Wrapped toy Tablet in pink wrapping paper
+Time 134: Elf Jack	Placed toy Tablet on sleigh
+Time 141: Elf Jack	Selected toy Car for girl
+Time 147: Elf Jack	Wrapped toy Car in silver wrapping paper
+Time 147: Elf Jack	Placed toy Car on sleigh
+Time 157: Elf Jack	Selected toy Doll for girl
+Time 163: Elf Jack	Wrapped toy Doll in silver wrapping paper
+Time 163: Elf Jack	Placed toy Doll on sleigh
+Time 164: Elf Jack	Selected toy Train for boy
+Time 173: Elf Jack	Wrapped toy Train in red wrapping paper
+Time 173: Elf Jack	Placed toy Train on sleigh
+Time 174: Elf Jack	Selected toy Car for girl
+Time 184: Elf Jack	Wrapped toy Car in pink wrapping paper
+Time 184: Elf Jack	Placed toy Car on sleigh
+Time 193: Elf Jack	Selected toy Train for boy
+Time 196: Elf Jack	Wrapped toy Train in red wrapping paper
+Time 196: Elf Jack	Placed toy Train on sleigh
+Time 202: Elf Jack	Selected toy Puzzle for girl
+Time 208: Elf Jack	Wrapped toy Puzzle in pink wrapping paper
+Time 208: Elf Jack	Placed toy Puzzle on sleigh
+Time 212: Elf Jack	Selected toy Barbie for girl
+Time 222: Elf Jack	Wrapped toy Barbie in pink wrapping paper
+Time 222: Elf Jack	Placed toy Barbie on sleigh
+Time 232: Elf Jack	Selected toy Train for girl
+Time 236: Elf Jack	Wrapped toy Train in silver wrapping paper
+Time 236: Elf Jack	Placed toy Train on sleigh
+Time 244: Elf Jack	Selected toy Drone for girl
+Time 246: Elf Jack	Wrapped toy Drone in silver wrapping paper
+Time 246: Elf Jack	Placed toy Drone on sleigh
+Time 255: Elf Jack	Selected toy Puzzle for girl
+Time 263: Elf Jack	Wrapped toy Puzzle in silver wrapping paper
+Time 263: Elf Jack	Placed toy Puzzle on sleigh
+Time 266: Elf Jack	Selected toy Drums for boy
+Time 268: Elf Jack	Wrapped toy Drums in blue wrapping paper
+Time 268: Elf Jack	Placed toy Drums on sleigh
+Time 269: Elf Jack	Selected toy Drums for girl
+Time 275: Elf Jack	Wrapped toy Drums in pink wrapping paper
+Time 275: Elf Jack	Placed toy Drums on sleigh
+Time 277: Elf Jack	Selected toy Guitar for girl
+Time 281: Elf Jack	Wrapped toy Guitar in pink wrapping paper
+Time 281: Elf Jack	Placed toy Guitar on sleigh
+Time 282: Elf Jack	Selected toy PC for boy
+Time 288: Elf Jack	Wrapped toy PC in red wrapping paper
+Time 288: Elf Jack	Placed toy PC on sleigh
+Time 289: Elf Jack	Selected toy Train for boy
+Time 290: Elf Jack	Wrapped toy Train in red wrapping paper
+Time 290: Elf Jack	Placed toy Train on sleigh
+Time 293: Elf Jack	Selected toy PC for boy
+Time 299: Elf Jack	Wrapped toy PC in red wrapping paper
+Time 299: Elf Jack	Placed toy PC on sleigh
+Time 303: Elf Jack	Selected toy Car for girl
+Time 311: Elf Jack	Wrapped toy Car in silver wrapping paper
+Time 311: Elf Jack	Placed toy Car on sleigh
+Time 321: Elf Jack	Selected toy Puzzle for boy
+Time 328: Elf Jack	Wrapped toy Puzzle in blue wrapping paper
+Time 328: Elf Jack	Placed toy Puzzle on sleigh
+Time 338: Elf Jack	Selected toy Guitar for boy
+Time 342: Elf Jack	Wrapped toy Guitar in blue wrapping paper
+Time 342: Elf Jack	Placed toy Guitar on sleigh
+Time 349: Elf Jack	Selected toy Dinosaur for boy
+Time 359: Elf Jack	Wrapped toy Dinosaur in red wrapping paper
+Time 472: Elf Jack	Placed toy Dinosaur on sleigh
+Time 476: Elf Jack	Selected toy Barbie for boy
+Time 480: Elf Jack	Wrapped toy Barbie in blue wrapping paper
+Time 480: Elf Jack	Placed toy Barbie on sleigh
