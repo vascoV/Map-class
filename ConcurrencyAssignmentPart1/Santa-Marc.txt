@@ -1,0 +1,38 @@
+Time 8: Santa Marc	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 24: Santa Marc	Walked back to his own allocated department
+Time 50: Santa Marc	Gives Toy Gift Drone	wrapped in pink wrapping paper
+
+Time 69: Santa Marc	Walked back to the Toy Store!
+Time 69: Santa Marc	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 96: Santa Marc	Walked back to his own allocated department
+Time 111: Santa Marc	Gives Toy Gift Drone	wrapped in silver wrapping paper
+
+Time 130: Santa Marc	Walked back to the Toy Store!
+Time 130: Santa Marc	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+Time 145: Santa Marc	Walked back to his own allocated department
+Time 169: Santa Marc	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
+
+Time 199: Santa Marc	Walked back to the Toy Store!
+Time 199: Santa Marc	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
+Time 225: Santa Marc	Walked back to his own allocated department
+Time 242: Santa Marc	Gives Toy Gift Guitar	wrapped in blue wrapping paper
+
+Time 270: Santa Marc	Walked back to the Toy Store!
+Time 270: Santa Marc	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 296: Santa Marc	Walked back to his own allocated department
+Time 314: Santa Marc	Gives Toy Gift PC	wrapped in red wrapping paper
+
+Time 336: Santa Marc	Walked back to the Toy Store!
+Time 336: Santa Marc	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+Time 360: Santa Marc	Walked back to his own allocated department
+Time 385: Santa Marc	Gives Toy Gift Guitar	wrapped in pink wrapping paper
+
+Time 410: Santa Marc	Walked back to the Toy Store!
+Time 410: Santa Marc	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+Time 432: Santa Marc	Walked back to his own allocated department
+Time 458: Santa Marc	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
+
+Time 474: Santa Marc	Walked back to the Toy Store!
+Time 474: Santa Marc	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
+Time 480: Santa Marc	Walked back to his own allocated department
+Time 480: Santa Marc	Walked back to the Toy Store!

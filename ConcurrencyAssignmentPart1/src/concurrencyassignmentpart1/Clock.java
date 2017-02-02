@@ -4,34 +4,23 @@ public class Clock extends Thread {
 
     private volatile int count = 0;
     boolean stop = false;
-    final int MAXTICK = 60 * 8;
+    boolean finished = false;
+    final int MAXTICK = 60*8;
     final int TICKTIME = 100;
 
-    boolean finished = false;
+    private static final Clock instance = new Clock();
 
-    private Clock() {
-
-    }
-
-    private static class InstanceHolder {
-
-        private static final Clock instance = new Clock();
-    }
-
+    
     public static Clock getInstance() {
-        return InstanceHolder.instance;
+        return instance;
     }
 
     public int getTick() {
         return count;
     }
 
-    public void start() {
-        run();
-    }
-
     public boolean isHour() {
-        return count % 60 == 0;
+        return count/60 == 0;
     }
 
     public boolean isStopped() {
@@ -40,17 +29,12 @@ public class Clock extends Thread {
 
     @Override
     public void run() {
-
         while (count < MAXTICK) {
-            
             count++;
-            
-            try {
-            
+            try {   
                 Thread.sleep(TICKTIME);
             } catch (InterruptedException ex) {}
-        }
-        
+        }       
         finished = true;
     }
 
@@ -58,5 +42,4 @@ public class Clock extends Thread {
     public String toString() {
         return "Time " + count + ": ";
     }
-
 }

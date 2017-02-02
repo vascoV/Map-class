@@ -1,82 +1,38 @@
-Time 6: Santa Kevin	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 12: Santa Kevin	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 34: Santa Kevin	Walked back to his own allocated department
+Time 55: Santa Kevin	Gives Toy Gift PC	wrapped in red wrapping paper
 
-Time 11: Santa Kevin	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+Time 79: Santa Kevin	Walked back to the Toy Store!
+Time 79: Santa Kevin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 104: Santa Kevin	Walked back to his own allocated department
+Time 127: Santa Kevin	Gives Toy Gift Doll	wrapped in silver wrapping paper
 
-Time 13: Santa Kevin	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+Time 145: Santa Kevin	Walked back to the Toy Store!
+Time 145: Santa Kevin	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+Time 165: Santa Kevin	Walked back to his own allocated department
+Time 189: Santa Kevin	Gives Toy Gift Train	wrapped in silver wrapping paper
 
-Time 20: Santa Kevin	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+Time 207: Santa Kevin	Walked back to the Toy Store!
+Time 207: Santa Kevin	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
+Time 224: Santa Kevin	Walked back to his own allocated department
+Time 242: Santa Kevin	Gives Toy Gift Doll	wrapped in blue wrapping paper
 
-Time 25: Santa Kevin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 267: Santa Kevin	Walked back to the Toy Store!
+Time 267: Santa Kevin	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
+Time 285: Santa Kevin	Walked back to his own allocated department
+Time 309: Santa Kevin	Gives Toy Gift Tablet	wrapped in silver wrapping paper
 
-Time 30: Santa Kevin	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
+Time 339: Santa Kevin	Walked back to the Toy Store!
+Time 339: Santa Kevin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
+Time 366: Santa Kevin	Walked back to his own allocated department
+Time 393: Santa Kevin	Gives Toy Gift Drone	wrapped in blue wrapping paper
 
-Time 31: Santa Kevin	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+Time 415: Santa Kevin	Walked back to the Toy Store!
+Time 415: Santa Kevin	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+Time 434: Santa Kevin	Walked back to his own allocated department
+Time 455: Santa Kevin	Gives Toy Gift Train	wrapped in red wrapping paper
 
-Time 33: Santa Kevin	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
-
-Time 41: Santa Kevin	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
-
-Time 44: Santa Kevin	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
-
-Time 68: Santa Kevin	Walked back to his own allocated department
-Time 87: Santa Kevin	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
-
-Time 113: Santa Kevin	Gives Toy Gift Drone	wrapped in red wrapping paper
-
-Time 129: Santa Kevin	Gives Toy Gift Tablet	wrapped in pink wrapping paper
-
-Time 142: Santa Kevin	Gives Toy Gift Train	wrapped in silver wrapping paper
-
-Time 157: Santa Kevin	Gives Toy Gift Doll	wrapped in silver wrapping paper
-
-Time 176: Santa Kevin	Gives Toy Gift Doll	wrapped in blue wrapping paper
-
-Time 204: Santa Kevin	Gives Toy Gift Drums	wrapped in blue wrapping paper
-
-Time 218: Santa Kevin	Gives Toy Gift Tablet	wrapped in silver wrapping paper
-
-Time 232: Santa Kevin	Gives Toy Gift PC	wrapped in pink wrapping paper
-
-Time 261: Santa Kevin	Gives Toy Gift Tablet	wrapped in silver wrapping paper
-
-Time 278: Santa Kevin	Walked back to the Toy Store!
-Time 278: Santa Kevin	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
-
-Time 278: Santa Kevin	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
-
-Time 278: Santa Kevin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
-
-Time 278: Santa Kevin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
-
-Time 278: Santa Kevin	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
-
-Time 278: Santa Kevin	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
-
-Time 278: Santa Kevin	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
-
-Time 278: Santa Kevin	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
-
-Time 278: Santa Kevin	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
-
-Time 278: Santa Kevin	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
-
-Time 305: Santa Kevin	Walked back to his own allocated department
-Time 321: Santa Kevin	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
-
-Time 346: Santa Kevin	Gives Toy Gift Train	wrapped in red wrapping paper
-
-Time 367: Santa Kevin	Gives Toy Gift Drone	wrapped in blue wrapping paper
-
-Time 397: Santa Kevin	Gives Toy Gift Doll	wrapped in silver wrapping paper
-
-Time 416: Santa Kevin	Gives Toy Gift Drone	wrapped in silver wrapping paper
-
-Time 445: Santa Kevin	Gives Toy Gift Drone	wrapped in silver wrapping paper
-
-Time 460: Santa Kevin	Gives Toy Gift Drone	wrapped in blue wrapping paper
-
-Time 478: Santa Kevin	Gives Toy Gift Doll	wrapped in silver wrapping paper
-
-Time 480: Santa Kevin	Gives Toy Gift Train	wrapped in blue wrapping paper
-
+Time 476: Santa Kevin	Walked back to the Toy Store!
+Time 476: Santa Kevin	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 480: Santa Kevin	Walked back to his own allocated department
 Time 480: Santa Kevin	Walked back to the Toy Store!

@@ -20,8 +20,9 @@ public class Santa extends Thread {
     private final int Sack_Capacity = 10;
 
     int toyCount = 0;
-    
     int ticksWaiting = 0;
+    int hCount = 0;
+    private int lastPrint = 0;
 
     PrintWriter writer;
     
@@ -37,7 +38,7 @@ public class Santa extends Thread {
              * Each text file has the name of the corresponding Santa
              */
             writer = new PrintWriter("Santa-" + santa_id + ".txt", "UTF-8");
-        
+       
         } catch (FileNotFoundException | UnsupportedEncodingException ex) {
         
             System.out.println("Error in writing to file" + "\t" + santa_id);
@@ -55,21 +56,20 @@ public class Santa extends Thread {
         
         while (!clock.isStopped()) {
             
-            while(sack.size() < Sack_Capacity) {
+//            while(sack.size() < Sack_Capacity) {
                 synchronized(buf){ 
                     int startTime = clock.getTick();
                     while(buf.isEmpty() && clock.getState() != Thread.State.TERMINATED){
 
                         try{
-                            System.out.println(santa_id + " is" + " Waiting....");
-                            buf.wait();
+//                            System.out.println(santa_id + " is" + " Waiting....");
+                            buf.wait(); 
                         } catch (InterruptedException ex){}
                     }
                     int endTime = clock.getTick();
                     ticksWaiting += endTime - startTime;
                     Present s = consume();
-                    writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Took toy " + s + " from sleigh.");
-                    writer.println();
+                    writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Took toy " + s + " from sleigh.");//                     buf.notifyAll();
                     sack.add(s);
                     buf.notifyAll();
                 }
@@ -79,7 +79,7 @@ public class Santa extends Thread {
 //                    if(sack.size() >= 6 && buf.isEmpty()){      
 //                    break;
 //                    }
-            }
+//            }
             
             /**
              * Santa need some time to Walk back
@@ -87,7 +87,7 @@ public class Santa extends Thread {
              */
             try {
                 
-               sleep(ThreadLocalRandom.current().nextInt(1000, 3000));     
+               sleep(ThreadLocalRandom.current().nextInt(1500, 3000));     
             } catch (InterruptedException ex) {}
 
             writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Walked back to his own allocated department");
@@ -101,7 +101,7 @@ public class Santa extends Thread {
                  */
                 try { 
                 
-                    sleep(ThreadLocalRandom.current().nextInt(1000, 3000)); 
+                    sleep(ThreadLocalRandom.current().nextInt(1500, 3000)); 
                 } catch (InterruptedException ex) {}
 
                 Present g = i.next();
@@ -119,10 +119,16 @@ public class Santa extends Thread {
              */
             try {
                 
-                sleep(ThreadLocalRandom.current().nextInt(1000, 3000));
+                sleep(ThreadLocalRandom.current().nextInt(1500, 3000));
             } catch (InterruptedException ex) {}
 
             writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Walked back to the Toy Store!");
+            
+            if((int) (clock.getTick()/60) > lastPrint){
+//                report();
+                lastPrint++;
+                hCount++;
+            }
         }
        writer.close();
     }
@@ -131,5 +137,11 @@ public class Santa extends Thread {
         System.out.println("Santa " + santa_id + "\t" + "Number of gifts gave: " + toyCount);
         System.out.println("Santa " + santa_id + "\t" + "Time Spent waiting: " + ticksWaiting + " minutes");
         System.out.println("Santa " + santa_id + "\t" + "Toys left in bag: " + sack.size() + "\n");
+    }
+    
+     public void report() {
+        String report = "Santa " + santa_id + "\t" + "gave " + hCount + " Gifts  For: " +  clock.getTick()/60 + " hour ";
+        System.out.println(report);
+        System.out.println();
     }
 }

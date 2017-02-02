@@ -1,0 +1,38 @@
+Time 14: Santa John	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+Time 34: Santa John	Walked back to his own allocated department
+Time 57: Santa John	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
+
+Time 79: Santa John	Walked back to the Toy Store!
+Time 79: Santa John	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+Time 105: Santa John	Walked back to his own allocated department
+Time 123: Santa John	Gives Toy Gift Train	wrapped in red wrapping paper
+
+Time 141: Santa John	Walked back to the Toy Store!
+Time 141: Santa John	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+Time 171: Santa John	Walked back to his own allocated department
+Time 191: Santa John	Gives Toy Gift Tablet	wrapped in blue wrapping paper
+
+Time 213: Santa John	Walked back to the Toy Store!
+Time 213: Santa John	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
+Time 231: Santa John	Walked back to his own allocated department
+Time 253: Santa John	Gives Toy Gift Car	wrapped in silver wrapping paper
+
+Time 273: Santa John	Walked back to the Toy Store!
+Time 273: Santa John	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+Time 301: Santa John	Walked back to his own allocated department
+Time 326: Santa John	Gives Toy Gift Drone	wrapped in red wrapping paper
+
+Time 349: Santa John	Walked back to the Toy Store!
+Time 349: Santa John	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+Time 368: Santa John	Walked back to his own allocated department
+Time 397: Santa John	Gives Toy Gift Tablet	wrapped in red wrapping paper
+
+Time 425: Santa John	Walked back to the Toy Store!
+Time 425: Santa John	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 441: Santa John	Walked back to his own allocated department
+Time 460: Santa John	Gives Toy Gift PC	wrapped in pink wrapping paper
+
+Time 478: Santa John	Walked back to the Toy Store!
+Time 478: Santa John	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 480: Santa John	Walked back to his own allocated department
+Time 480: Santa John	Walked back to the Toy Store!

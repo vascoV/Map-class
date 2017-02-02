@@ -13,13 +13,10 @@ public class Elf extends Thread {
     String elf_id;
     
     private final int rand = 1000;
-    int toyCount = 0;
-
-    int ticksWaiting = 0;
-//    int reports = 0;
-    
-    int hCount = 0;
-    int hTicks = 0;
+    private int toyCount = 0;
+    private int ticksWaiting = 0;
+    private int hCount = 0;
+    private int hTicks = 0;
 
     /**
      * Arbitrary list with toys 
@@ -58,8 +55,6 @@ public class Elf extends Thread {
     @Override
     public void run() {
         while (!clock.isStopped()) {
-           
-//            report();
 
             /**
              * Choosing toys from the shelves
@@ -70,8 +65,6 @@ public class Elf extends Thread {
                 sleep((int) (Math.random() * rand));
                 
             } catch (InterruptedException ex) {}
-            
-//            report();
 
             /**
              * Storing a random toy from the toys array
@@ -99,39 +92,37 @@ public class Elf extends Thread {
                 sleep((int) (Math.random() * rand)); //pause the thread for random period of time
                 
             } catch (InterruptedException ex) {}
-            
-//            report();
                         
             Present p = new Present(toy, gender, colour);
 
             writer.println(clock.toString() + "Elf " + elf_id + "\t" + "Wrapped toy " + toy + " in "+ (gender?(colour? "blue":"red"):(colour? "pink" : "silver")) + " wrapping paper");
 
             synchronized(sleight){
-                if(clock.isStopped()) { break; }
                 int startTime = clock.getTick();
-                while(sleight.isFull() && clock.getState() != Thread.State.TERMINATED){
-                    
+                while(sleight.isFull() && clock.getState() != Thread.State.TERMINATED){    
                     try{
-                        System.out.println(elf_id + " is" + " Waiting....");
-                        sleight.wait();
+//                        System.out.println("Elf is Waiting...." + elf_id + " " + sleight.isFull() + "  " + sleight.getCounter());
+                        sleight.wait(); 
                     } catch (InterruptedException ex){}
+                }
+                if(!sleight.isFull()){ 
+                    Produce(p);
                 }
                 sleight.notifyAll();
                 int endTime = clock.getTick();
                 ticksWaiting += endTime - startTime;
-                if(!sleight.isFull()){ 
-                    Produce(p);
-                }
-                
-               
             }
 
             writer.println(clock.toString() + "Elf " + elf_id + "\t" + "Placed toy " + toy + " on sleigh");
             toyCount++;
             hCount++;
             if((int) (clock.getTick()/60) > lastPrint){
-//                report();
+                report();
                 lastPrint++;
+//                hTicks++;
+            }
+            if(clock.isHour()){
+                hTicks = clock.getTick();
             }
         }
         writer.close();
@@ -143,8 +134,7 @@ public class Elf extends Thread {
     }
 
     public void report() {
-        System.out.println();
-        String report = "Hourly Report: " + clock.getTick()/60 + " " + "Elf " + elf_id + "has wrapped " + hCount + " and have waited " + ticksWaiting;
+        String report = "For " +  clock.getTick()/60 + " hours " + "Elf " + elf_id + "\t" + "has wrapped " + hCount + "\t" + "and have waited " + hTicks + " seconds";
         System.out.println(report);
         System.out.println();
     }

@@ -1,5 +1,9 @@
 package concurrencyassignmentpart1;
 
+import java.lang.management.ManagementFactory;
+import java.lang.management.ThreadInfo;
+import java.lang.management.ThreadMXBean;
+
 public class ConcurrencyAssignmentPart1 {
 
     public static void main(String[] args) {
@@ -15,14 +19,14 @@ public class ConcurrencyAssignmentPart1 {
         Sleight sleight = new Sleight(120);
 
         Santa santa1 = new Santa("Kevin", sleight);
-        Santa santa2 = new Santa("Richard", sleight);
-        Santa santa3 = new Santa("Martin", sleight);
+        Santa santa2 = new Santa("John", sleight);
+        Santa santa3 = new Santa("Marc", sleight);
         
-        Elf elf_1 = new  Elf("Bushy Evergreen", sleight);
-        Elf elf_2 = new Elf("Pepper Minstix", sleight);
-        Elf elf_3 = new Elf("Alabaster Snowball", sleight);
-        Elf elf_4 = new Elf("Sugarplum Mary", sleight);
-        Elf elf_5 = new Elf("Wunorse Openslae", sleight);
+        Elf elf_1 = new  Elf("Jane", sleight);
+        Elf elf_2 = new Elf("Jack", sleight);
+        Elf elf_3 = new Elf("Alex", sleight);
+        Elf elf_4 = new Elf("Suzan", sleight);
+        Elf elf_5 = new Elf("Bill", sleight);
         
         /**
          * Begin execution of the threads
@@ -38,19 +42,6 @@ public class ConcurrencyAssignmentPart1 {
         elf_5.start();
         
         clock.start();
-        
-//        while(clock.getState() != Thread.State.TERMINATED){
-//            
-//            if ((clock.getTick() % 60) == 0 && clock.getTick()!=0){ 
-//                try {
-//                   Thread.sleep(200);
-//                    
-//                } catch (Exception e) {
-//                }
-//
-//                elf_1.writeElfReport();
-//            }
-//        }
         
         /**
          * Causes the current thread 
@@ -70,7 +61,6 @@ public class ConcurrencyAssignmentPart1 {
             santa3.join();
             
         } catch (InterruptedException ex) { }
-       
         
         
         /**
@@ -90,7 +80,7 @@ public class ConcurrencyAssignmentPart1 {
         santa3.output();
         
         System.out.println("\n");
-        System.out.println("Toys left into the sleigh at the end of the day: " + sleight.numOfToys() + "\n");
+        System.out.println("Toys left into the sleigh at the end of the day: " + sleight.getCounter() + "\n");
         System.out.print("\n");
         System.out.println("End of the Working Day");
     }
